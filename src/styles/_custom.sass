@@ -2,31 +2,409 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 42%
+    left: 2%
+    width: 20%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
+    top: 74%
+    left: 12%
+    width: 20%
+  &-3
+    animation: float1 1.8s ease-in-out infinite alternate
+    position: absolute
+    bottom: 26%
+    right: 15%
+    width: 20%
+  &-4
+    animation: float1 2.2s ease-in-out infinite alternate
+    position: absolute
+    top: 35%
+    right: 9%
+    width: 10%
+  &-5
+    animation: float1 3.1s ease-in-out infinite alternate
+    position: absolute
+    top: 26%
     right: 30%
+    width: 20%
 
 @keyframes float1
   0%
     transform: translateY(20px)
   100%
     transform: translateY(0px)
-  
+
 .banner-principal .tarjeta
   background-position: left 50% !important
+  background-image: url('../assets/curso/portada/fondo-banner-principal-mobile.png') !important
+
+.banner-principal__componente h1,
+.banner-principal__descripcion p
+  color: #12263F
+
+@media (min-width: 440px)
+  .banner-principal .tarjeta
+    background-image: url('../assets/curso/portada/fondo-banner-principal-tablet.png') !important
+
+@media (min-width: 768px)
+  .banner-principal .tarjeta
+    padding-right: 0
+    overflow: hidden
+
+  .banner-principal__info
+    padding-right: 85px !important
+
+@media (min-width: 1024px)
+  .banner-principal .tarjeta
+    background-image: url('../assets/curso/portada/fondo-banner-principal.png') !important
+
+  .banner-principal__info
+    padding-right: unset !important
 
 .banner-principal__row .banner-principal__img
-  width: 400px !important  
+  padding-bottom: 0 !important
+  padding-top: 0 !important
+  align-self: flex-end
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: white !important
+  color: $color-sistema-texto !important
 
+.banner-interno__titulo__icono
+  background-color: $color-primario
+.banner-interno__titulo
+  h2
+    color: $color-primario
 .banner-interno__titulo__icono i
-  color: $color-primario
+  color: $white
 
-figcaption
+.banner-interno__fondo
+  background-image: url('../assets/curso/portada/banner-interno.png') !important
+
+figcaption, caption
   font-weight: normal
+
+.bg-color-acento-contenido
+  background-color: #00FFDF
+
+.bg-color-acento-contenido-a20
+  background-color: #CCFFF9
+
+.bg-color-terciario
+  background-color: #05236D
+.bg-color-terciario-t5
+  background-color: #E5EBFB
+  &::before
+    background-color: $color-terciario
+.bg-color-terciario-t20
+  background-color: #9DB5F1
+
+.bg-color-secundario-s5
+  background-color: #F5ECFD
+  &::before
+    background-color: $color-secundario
+.bg-color-secundario-s20
+  background-color: #DCBAFA
+
+.bg-color-acento-contenido-a5
+  background-color: #E4FFFB
+.bg-color-acento-contenido-a10
+  background-color: #E4FFFB
+
+.bg-gradiente
+  background: #7439A8
+  background: linear-gradient(90deg, rgba(116, 57, 168, 1) 0%, rgba(83, 41, 120, 1) 100%)
+
+.color-acento-botones
+  color: $color-acento-botones
+
+.bg-gradient-morado
+  background: #532978
+  background: -webkit-linear-gradient(270deg,rgba(83, 41, 120, 1) 0%, rgba(116, 57, 168, 1) 100%)
+  background: -moz-linear-gradient(270deg,rgba(83, 41, 120, 1) 0%, rgba(116, 57, 168, 1) 100%)
+  background: linear-gradient(270deg,rgba(83, 41, 120, 1) 0%, rgba(116, 57, 168, 1) 100%)
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#532978",endColorstr="#7439A8",GradientType=0)
+
+.titulo-sexto
+  color: #004E7C
+  span
+    font-weight: 400
+
+// .fullwidth-bg
+//   position: relative
+//   z-index: 0
+
+//   &--1::after
+//     top: 0px
+//     left: -60px
+//     position: absolute
+//     content: url('../assets/curso/temas/tema3/bg-1.png')
+
+//     @media (max-width: 450px)
+//       display: none
+
+//   &--2::after
+//     top: 0px
+//     left: -60px
+//     position: absolute
+//     content: url('../assets/curso/temas/tema2/bg-1.png')
+
+//     @media (max-width: 450px)
+//       display: none
+
+//   &--3::after
+//     top: 0
+//     left: -60px
+//     position: absolute
+//     height: 440px
+//     width: 1440px
+//     background: #FFFFFF
+//     background: linear-gradient(180deg, rgba(255, 255, 255, 0.53) 0%, rgba(238, 250, 243, 0.5) 20%, rgba(238, 250, 243, 0.5) 80%, rgba(255, 255, 255, 0.62) 100%)
+//     content: ''
+
+// .z-2
+//   z-index: 2
+//   position: relative
+
+// .accesibilidad
+//   z-index: 10
+
+// .factores-slider
+//   background-color: #F6F6F6
+//   .slyder-f
+//     align-items: center
+
+//     .slyder-f__main
+//       width: 70%
+
+//       @media (min-width: 769px)
+//         width: 80%
+
+//   .slyder-f__btn
+//     height: 35px
+//     width: 35px
+//     max-width: 35px
+//     background-color: $color-acento-botones
+//     border-radius: 50%
+//     padding: 0 !important
+//     margin: 0 auto
+//     .fa-chevron-left
+//       font-size: 20px
+//     .fa-chevron-right
+//       font-size: 20px
+
+// .card-decoration
+//   background-color: #FFFFFF
+
+// .font-small
+//   font-size: 14px
+
+// .banner-text
+//   background-color: $color-terciario-t5
+//   border-radius: 10px
+//   padding: 20px 30px
+//   margin-top: -10px
+
+// @media (min-width: 992px)
+//   .banner-text
+//     margin-top: -40px
+
+// .drop-shadow
+//   filter: drop-shadow(0px 3px 5px #00000005)
+
+// .conservas-slyder
+//   background-color: $color-terciario-t5
+
+//   .slyder-a__btn--sigt, .slyder-a__btn--atrs
+//     background-color: $color-acento-botones
+//     border: none
+//     transition-delay: 0.1s
+//     opacity: 0.9
+
+//     &.hide
+//       opacity: 0
+//       pointer-events: none
+
+//   .slyder-a__bullets__item
+//     background-color: #A854F3
+//     border: 1px solid #A854F3
+//     opacity: 0.3
+//     margin: 0 8px
+//   .slyder-a__bullets__item--active
+//     opacity: 1
+
+//   &.more-elements
+//     @media (max-width: 650px)
+//       .slyder-a__bullets__item
+//         width: 10px
+//         height: 10px
+//         margin: 0 3px
+
+// .checklist
+//   padding-left: 20px
+//   width: fit-content
+
+//   li
+//     position: relative
+//     padding: 0 20px
+//     padding-left: 0
+//     // border-bottom: 1px dotted #AFAFAF
+
+//     &:last-child
+//       border-bottom: none
+//     &::before
+//       content: url('../assets/curso/temas/check-icon.svg')
+//       position: absolute
+//       left: -20px
+
+// .custom-timeline
+//   .linea-tiempo-d__item__content__title
+//     background-color: #E5D9FF
+
+//   .linea-tiempo-d__item__content__slot
+//     background-color: #E8E8E8
+
+//   .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
+//     background-color: $color-secundario-s5
+
+//   .linea-tiempo-d__item.row.linea-tiempo-d__item--selected
+//     .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
+//       background-color: $color-secundario
+//       color: white
+
+//   .linea-tiempo-d__item.row.linea-tiempo-d__item--selected
+//     .linea-tiempo-d__item__content__title
+//       background-color: #E8E8E8
+
+// .acordion-conservas
+//   background-color: #E5D9FF
+//   color: #12263F
+//   &--borde
+//     background-color: lighten($color-acento-contenido, 50%)
+//     color: #12263F
+//     border: solid 4px $color-acento-contenido
+
+//   .acordion__accion__btn--a
+//     background-color: #A854F3
+//     color: #FFFFFF
+
+//   &.acordion__activo
+//     background-color: #E8E8E8
+
+// .w-72
+//   width: 72px
+//   margin: 0 auto
+
+// .graph-title
+//   position: relative
+//   width: fit-content
+//   padding: 10px 30px
+//   padding-left: 50px
+//   background-color: #3A1D71
+//   color: #FFFFFF
+//   margin-left: 30px
+//   border-radius: 20px
+//   margin-top: 20px
+//   &::before
+//     content: url('../assets/curso/temas/tema1/4.svg')
+//     position: absolute
+//     left: -40px
+//     top: 50%
+//     transform: translateY(-50%)
+//     max-width: 65px
+//     display: block
+
+// -------------------- Tarjetas Hover
+.crd_hover_txt
+  position: relative
+  padding: 0
+  overflow: hidden
+  border-radius: 10px
+
+.crd_hover_txt:hover .crd_hover_txt--body
+  transition: all .3s ease-in-out
+  transform: translateY(0)
+
+.crd_hover_txt .crd_hover_txt--body
+  position: absolute
+  padding: 18px 13px 30px
+  bottom: 0
+  transition: all .3s ease-in-out
+  transform: translateY(calc(100% - 55px))
+  background-color: #CEDAF8
+  &:hover
+    background-color: #E4FFFB
+
+.tabla-a
+  th
+    background-color: #CEDAF8
+    border: #707070 1px solid
+  td
+    border: #707070 1px solid
+  thead
+    border-color: $color-secundario
+
+.tarjeta-avatar
+  .tarjeta
+    padding-top: 20%!important
+  &.small-img
+    padding-top: 20px!important
+    // @media (min-width: 992px)
+
+    img
+      width: auto
+
+// -------------------- Imagen y tarjeta en la mitad
+.tarjeta-horz
+  display: flex
+  flex-direction: column
+  align-items: center
+
+  .texto-tarjeta
+    width: 92%
+    margin: -1em 0 auto 0
+    padding: 1.5em
+    box-shadow: 0 2px 5px rgba(0,0,0,0.17)
+    border-radius: 0.5em
+    z-index: 10
+    position: relative
+
+// -------------------- Acordion
+.acordion
+  &__accion__btn--a
+    background: $color-secundario
+    color: $white
+
+  .tarjeta
+    &--morado
+      background: #E5D9FF
+      padding: 0.75rem 0.75rem 0 0.75rem!important
+      .acordion__header
+        margin-bottom: 0.75rem!important
+        .acordion__titulo h3
+          font-size: 18px
+      .acordion__contenido__item, p
+        padding-bottom: 0.5rem!important
+        padding-left: 1.75rem
+
+// -------------------- Acordion con numeral - pasos
+
+.linea-tiempo-d.color-secundario
+  .linea-tiempo-d__item__number
+    background: #F5ECFD
+  .linea-tiempo-d__item__content
+    background: #E5D9FF
+  .linea-tiempo-d__item--selected
+    .linea-tiempo-d__item__number
+      color: #fff
+    .linea-tiempo-d__item__content
+      background: #E8E8E8
+
+.text-corner
+  position: absolute
+  font-size: 2.1em
+  top: 0
+  left: 0
+  color: #00B29B
+  font-weight: bold
