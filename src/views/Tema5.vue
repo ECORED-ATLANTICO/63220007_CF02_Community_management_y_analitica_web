@@ -12,9 +12,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-left")(src='@/assets/curso/tema5/img01.png', alt='imagen decorativa')
       .col-lg-8
-          p Las herramientas de analítica 
-            i web 
-            | facilitan la recopilación de métricas esenciales como alcance, 
+          p Las herramientas de analítica web facilitan la recopilación de métricas esenciales como alcance, 
             i engagement
             | y conversión. Su elección depende de los objetivos de la estrategia digital y del tipo de datos que se desean analizar (Kaushik, 2020). Cada una de estas métricas aporta información valiosa sobre el comportamiento de los usuarios en distintos puntos del recorrido digital, permitiendo identificar oportunidades de optimización y tomar decisiones estratégicas basadas en datos. 
           p La elección de la herramienta adecuada no solo depende de las funcionalidades que ofrece, sino también de la alineación con los objetivos específicos de la estrategia digital. Por ejemplo, si el enfoque está en mejorar la interacción con el público, será prioritario utilizar plataformas que midan el engagement en profundidad, mientras que para maximizar conversiones, se optará por soluciones que analicen el flujo de ventas y la efectividad de los puntos de contacto. 
@@ -35,14 +33,12 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--morado")
           div(titulo="Automatización")
               p Recopilan datos en tiempo real sin intervención manual, optimizando tiempos y recursos.
-          div(titulo="Tiempo de respuesta.")
-              p Alcance, tráfico web.
-          div(titulo="Tiempo de <em>engagement</em>.")
-              p 
-                i Engagement: 
-                | comentarios, compartidos.
-          div(titulo="Menciones y conversaciones.")
-              p Conversión: compras, registros.
+          div(titulo="Visualización de datos")
+              p Generan gráficos y reportes comprensibles que facilitan el análisis de la información.
+          div(titulo="Segmentación de audiencia")
+              p Permiten identificar el comportamiento de distintos perfiles de usuarios para estrategias más precisas.
+          div(titulo="Integración")
+              p Se conectan con otras plataformas y sistemas para realizar un análisis más profundo y completo.
  
     .row.col-12.col-lg-8.mx-auto.bg-color-terciario-t5.align-items-center.p-4.tarjeta.mb-5
       .col-12.col-lg-10
@@ -79,7 +75,7 @@
         .tabla-a
           table
             caption 
-              b Fuente:
+              b Fuente: 
               | SENA (2025).
             thead
               tr
@@ -115,7 +111,9 @@
                 td.text-left No. Cuenta con periodo de prueba.
               tr
                 td.text-left SEMrush.
-                td.text-left Ideal para el análisis de posicionamiento SEO y marketing digital.
+                td.text-left Ideal para el análisis de posicionamiento SEO y 
+                   i marketing 
+                   | digital.
                 td.text-left Semrush, el 
                   i marketing online 
                   | puede ser fácil.
@@ -162,7 +160,7 @@
             i dashboard 
             | interactivo.
       .col-4.col-lg-2
-        a.boton.color-acento-botones(href=" https://www.youtube.com/watch?v=O_uQYV8rZ3k" target="_blank")
+        a.boton.color-acento-botones(href=" https://portermetrics.com/wp-content/uploads/2025/05/Social-Media-dashboard.pdf" target="_blank")
           span Enlace
           i.fas.fa-link
 
@@ -216,7 +214,7 @@
                     p.mb-0.text-center
                       b 4. Interpretar resultados
               p.text-center.mb-0 Identificar 
-                i insights
+                i insights 
                 | y oportunidades de mejora.
 
 </template>

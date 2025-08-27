@@ -91,7 +91,8 @@
           | Un 
           i insight 
           | es una clave, la esencia que nos permite encontrar la solución a un problema. Un camino, un dato que nos sugiere como resolver cualquier ecuación por compleja que sea. Explicación del significado de 
-          i insight y cómo encontrarlos dada desde el canal de socialmood, especializado en temas de 
+          i insight 
+          | y cómo encontrarlos dada desde el canal de socialmood, especializado en temas de 
           i social media 
           | y comunicación digital.
       .col-4.col-lg-2
@@ -116,8 +117,7 @@
       .col-12.col.col-lg-9.mb-4.mb-lg-0
         LineaTiempoD.color-secundario
           .row(numero="1" titulo="Recopilación")
-            p.mb-0 Obtención de métricas a través de herramientas de analítica 
-              i web.
+            p.mb-0 Obtención de métricas a través de herramientas de analítica web.
           .row(numero="2" titulo="Organización")
             p.mb-0 Segmentación de datos según objetivos de la empresa.
           .row(numero="3" titulo="Comparación")
@@ -126,7 +126,7 @@
             p.mb-0 Detección de cambios en el comportamiento de la audiencia.
           .row(numero="5" titulo="Acción")
             p.mb-0 Implementación de ajustes en la estrategia digital basada en los 
-              i insights
+              i insights 
               | obtenidos.
       
 
@@ -141,14 +141,14 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-left")(src='@/assets/curso/tema4/img10.png', alt='imagen decorativa')
       .col-lg-8
-          p En el análisis de datos digitales, existen dos indicadores de rendimiento que son fundamentales diferenciar, las métricas superficiales, también conocidas como vanity metrics, y aquellas métricas realmente accionables que aportan valor tangible a la estrategia empresarial. Avinash Kaushik, en su obra 
+          p En el análisis de datos digitales, existen dos indicadores de rendimiento que son fundamentales diferenciar, las métricas superficiales, también conocidas como 
+            i vanity metrics, 
+            | y aquellas métricas realmente accionables que aportan valor tangible a la estrategia empresarial. Avinash Kaushik, en su obra 
             i web Analytics 
             | 2.0, destaca la evolución de la medición de datos digitales, pasando de métricas básicas como visitas y páginas vistas a métricas más accionables, también conocidas como métricas basadas en resultados.
           p.bg-color-acento-contenido-a5.p-4 Las 
             i vanity metrics, 
-            | como la cantidad de seguidores en redes sociales o las visualizaciones de una página 
-            i web, 
-            | pueden parecer impresionantes a primera vista, pero no siempre reflejan un impacto real en el crecimiento o la toma de decisiones. En contraste, las métricas accionables proporcionan información clave para ajustar estrategias, optimizar procesos y mejorar el rendimiento general del negocio. Estas métricas, bien interpretadas y utilizadas, permiten tomar decisiones fundamentadas que contribuyen al cumplimiento de objetivos específicos, impulsando el éxito y la competitividad en el mercado:
+            | como la cantidad de seguidores en redes sociales o las visualizaciones de una página web, pueden parecer impresionantes a primera vista, pero no siempre reflejan un impacto real en el crecimiento o la toma de decisiones. En contraste, las métricas accionables proporcionan información clave para ajustar estrategias, optimizar procesos y mejorar el rendimiento general del negocio. Estas métricas, bien interpretadas y utilizadas, permiten tomar decisiones fundamentadas que contribuyen al cumplimiento de objetivos específicos, impulsando el éxito y la competitividad en el mercado:
 
 
     .row.justify-content-center.my-3.mb-4(data-aos="zoom-in")
@@ -159,7 +159,9 @@
               img(src="@/assets/curso/tema4/img11.png").mx-auto
               .col-md-12.col-lg-12.p-4
                 h5.mb-3 Métricas superficiales: 
-                p.mb-0 ofrecen una visión general del alcance, como el total de seguidores, las visitas sin interacción o los “likes” sin conversión. Aunque son útiles, no siempre reflejan impacto real.
+                p.mb-0 ofrecen una visión general del alcance, como el total de seguidores, las visitas sin interacción o los 
+                  i “likes” 
+                  | sin conversión. Aunque son útiles, no siempre reflejan impacto real.
 
       .col-12.col-md-6.col-lg-4.mb-4.mb-lg-0.d-flex
         .tarjeta.bg-color-secundario-s20

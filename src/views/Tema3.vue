@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Ecosistema digital
+      h1 Redes sociales
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-4
@@ -13,13 +13,15 @@
           img.mb-4.mb-lg-0(data-aos="fade-left")(src='@/assets/curso/tema3/img01.png', alt='imagen decorativa')
       .col-lg-8
         .bg-color-terciario-t5.p-4.tarjeta
-          p.mb-0 Las métricas en redes sociales permiten evaluar el desempeño de una estrategia digital y ajustar las acciones para maximizar su efectividad, son indicadores clave que reflejan el comportamiento de los usuarios en redes sociales y permiten a las empresas comprender qué contenido funciona mejor y cómo interactúan sus audiencias (Kaushik, 2020). A través de la recopilación de datos, las empresas pueden medir el impacto de sus publicaciones, campañas y la interacción con los usuarios, logrando así optimizar su presencia en el entorno digital (Chaffey & Smith, 2022).
+          p.mb-0 Las redes sociales no son solo vitrinas digitales donde las marcas se exhiben; son espacios vivos de conversación, escucha y construcción de comunidad. En el universo del marketing digital, su poder radica en que permiten activar estrategias medibles, segmentadas y alineadas con objetivos SMART: específicos, medibles, alcanzables, relevantes y temporales. Ya no se trata solo de publicar por estar, sino de diseñar contenidos que respondan a metas claras como aumentar el tráfico web en un 20 % en tres meses o generar 50 leads calificados desde Instagram por ejemplo. Cuando las redes se gestionan con intención estratégica, se convierten en aliadas para transformar la visibilidad en resultados concretos.
 
     .row.mb-5
       .col-12.col-lg-8.mx-auto.p-3.bg-color-acento-contenido-a20
         p.text-bold.mb-0.text-center Los objetivos 
           i SMART 
-          | en marketing digital son aquellos que cumplen con las siguientes características:
+          | en 
+          i marketing 
+          | digital son aquellos que cumplen con las siguientes características:
     
 
     .row.justify-content-center.mb-4.w-100

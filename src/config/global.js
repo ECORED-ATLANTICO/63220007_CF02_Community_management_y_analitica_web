@@ -1,6 +1,6 @@
 export default {
   global: {
-    Name: 'Optimización digital mediante analítica web.',
+    Name: 'Optimización digital mediante analítica web',
     Description:
       'Este componente formativo proporciona los conocimientos esenciales para analizar y optimizar estrategias digitales mediante la analítica web. A través de métricas precisas, los aprendices aprenderán a interpretar datos de redes sociales, identificar oportunidades de mejora y aplicar acciones correctivas que maximicen el impacto de los contenidos. Con herramientas especializadas, convertirán la analítica web en una ventaja competitiva en el entorno digital.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
@@ -163,7 +163,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA2_63220007_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -233,7 +233,7 @@ export default {
     {
       termino: '<em>Landing page</em>',
       significado:
-        'página <em>web</em> diseñada específicamente para captar la atención de los visitantes y fomentar conversiones.',
+        'página web diseñada específicamente para captar la atención de los visitantes y fomentar conversiones.',
     },
     {
       termino: 'Meta <em>business suite</em>',
@@ -251,7 +251,7 @@ export default {
         'datos que parecen relevantes pero no ofrecen información clave para la toma de decisiones, como el número total de seguidores.',
     },
     {
-      termino: 'Pruebas A/B:',
+      termino: 'Pruebas A/B',
       significado:
         'método de análisis que compara dos versiones de contenido o estrategia digital para identificar cuál obtiene mejores resultados.',
     },
@@ -266,7 +266,7 @@ export default {
         'publicidad pagada en buscadores que ayuda a aumentar el tráfico y mejorar la presencia digital de una empresa. ',
     },
     {
-      termino: 'SEO (Search Engine Optimization)',
+      termino: 'SEO <em>(Search Engine Optimization)</em>',
       significado:
         'estrategia enfocada en mejorar la visibilidad de un sitio web en motores de búsqueda como Google.',
     },
@@ -286,19 +286,19 @@ export default {
     {
       referencia:
         'Kaushik, A. (2010). <em>Web analytics 2.0: The art of online accountability & science of customer centricity.</em> Wiley. ',
-      link: 'https://archive.org/details/webanalytics20ar0000kaus.',
+      link: 'https://archive.org/details/webanalytics20ar0000kaus',
     },
     {
       referencia:
         'Chaffey, D., & Smith, P. (2022). <em>Digital marketing excellence: Planning, optimizing and integrating online marketing (6.ª ed.).</em> Routledge. ',
       link:
-        'https://api.pageplace.de/preview/DT0400.9781000610918_A43003547/preview-9781000610918_A43003547.pdf.',
+        'https://api.pageplace.de/preview/DT0400.9781000610918_A43003547/preview-9781000610918_A43003547.pdf',
     },
     {
       referencia:
         'Muñoz, G., & Elósegui, T. (2011). <em>El arte de medir: Manual de analítica web.</em> Profit Editorial. ',
       link:
-        'https://books.google.com/books/about/El_arte_de_medir.html?id=NsK5wAEACAAJ.',
+        'https://books.google.com/books/about/El_arte_de_medir.html?id=NsK5wAEACAAJ',
     },
   ],
   creditos: [
@@ -306,14 +306,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
@@ -321,9 +322,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Yezid Arturo Choperena Guerrero',
+          cargo: 'Experto temático',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+        },
+        {
+          nombre: 'Heydy Cristina González García',
+          cargo: 'Evaluadora instruccional ',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
@@ -331,19 +337,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Carmen Alicia Martínez Torres',
+          cargo: 'Diseñador <em>web</em>',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Álvaro Guillermo Araújo Angarita',
           cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Nelson Iván Vera Briceño',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
@@ -351,14 +357,24 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'María Fernanda Morales Angulo',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+        },
+        {
+          nombre: 'Jairo Luis Valencia Ebratt',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+        },
+        {
+          nombre: 'Jonathan Adie Villafañe',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Analítica <em>web</em>
+      h1 Analítica web
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-4
@@ -28,14 +28,16 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-up")(src='@/assets/curso/tema1/img02.png', alt='imagen decorativa')
 
+   
     .col-lg-6.mb-4.col-12.mx-auto.mb-5
+      p.mb-5 Algunas de sus características son:
       .titulo-sexto.mb-4
         h5 Figura 1. 
         span.text-dark Características de la analítica web 
       figure.mb-4
         figure.mb-3
-          img(src='@/assets/curso/tema1/img03.svg', alt='En la figura 1 se describen acciones a desarrollar en el  ciclo del servicio al cliente de la siguiente manera: Preventa: detectar necesidades, presentar solución, informar, generar confianza. Venta: atender, demostrar, resolver dudas, gestionar pago/entrega. Postventa: confirmar entrega, solucionar problemas, recibir feedback, ofrecer más.').mx-auto.d-block.d-xs-none
-          img(src='@/assets/curso/tema1/img03m.svg', alt='En la figura 1 se describen acciones a desarrollar en el  ciclo del servicio al cliente de la siguiente manera: Preventa: detectar necesidades, presentar solución, informar, generar confianza. Venta: atender, demostrar, resolver dudas, gestionar pago/entrega. Postventa: confirmar entrega, solucionar problemas, recibir feedback, ofrecer más.').mx-auto.d-none.d-xs-block
+          img(src='@/assets/curso/tema1/img03.svg', alt='La figura presenta las características de la analítica web. Permite identificar tendencias de comportamiento de los usuarios. Facilita la medición de la efectividad de estrategias digitales. Proporciona datos para la optimización de contenidos. Ayuda a mejorar la experiencia del usuario en plataformas digitales.').mx-auto.d-block.d-xs-none
+          img(src='@/assets/curso/tema1/img03m.svg', alt='La figura presenta las características de la analítica web. Permite identificar tendencias de comportamiento de los usuarios. Facilita la medición de la efectividad de estrategias digitales. Proporciona datos para la optimización de contenidos. Ayuda a mejorar la experiencia del usuario en plataformas digitales.').mx-auto.d-none.d-xs-block
 
         figcaption 
           b Fuente: 

@@ -36,7 +36,8 @@
             p.text-bold.mb-3.text-center Métrica de 
               i engagement
             p.mb-0.text-center Evalúan la interacción del público con el contenido, incluyendo 
-              i likes, comentarios y compartidos. Reflejan qué tan atractivo resulta para la audiencia. Un ejemplo común es registrar 5.000 interacciones en una publicación determinada.
+              i likes, 
+              | comentarios y compartidos. Reflejan qué tan atractivo resulta para la audiencia. Un ejemplo común es registrar 5.000 interacciones en una publicación determinada.
 
       .col-xl-4.col-lg-7.col-10.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
@@ -53,20 +54,21 @@
           img.mb-4.mb-lg-0(data-aos="fade-right")(src='@/assets/curso/tema2/img05.svg', alt='imagen decorativa')
       .col-12.col-md-12.col-lg-11.cajon(data-aos="fade-left")
         p.mb-0 A continuación, se presenta una tabla que detalla diversas métricas utilizadas en analítica web y redes sociales. Cada una incluye su descripción, un ejemplo práctico y su clasificación según el tipo de análisis: alcance, 
-          i engagement o conversión. Esta información permite interpretar de forma precisa el rendimiento de las estrategias digitales.
+          i engagement 
+          | o conversión. Esta información permite interpretar de forma precisa el rendimiento de las estrategias digitales.
     
 
     .row.justify-content-center.align-items-center.my-3.mb-5(data-aos="")
       .col-md-12.col-lg-11
         .titulo-sexto.mb-4
           h5 Tabla 1. 
-            span IA: aplicaciones, beneficios y retos éticos
+            span Métricas más usadas
 
         .tabla-a
           table
             caption 
               b Fuente:
-              | SENA (2025)
+              | SENA 2025
             thead
               tr
                 th Nombre de la métrica
@@ -78,16 +80,20 @@
                 td.text-left Alcance 
                   i (Reach).
                 td.text-left Representa el número total de usuarios únicos que visualizaron una publicación. 
-                td.text-left "El post alcanzó a 1,200 usuarios." 
+                td.text-left "El 
+                  i post 
+                  | alcanzó a 1,200 usuarios." 
                 td.text-left Alcance. 
               tr
                 td.text-left 
                   i Clicks 
                   | por enlace.
                 td.text-left Registra los 
-                  i clicks en enlaces incluidos en el contenido. 
+                  i clicks 
+                  | en enlaces incluidos en el contenido. 
                 td.text-left "El 
-                  i link recibió 150 
+                  i link 
+                  | recibió 150 
                   i clicks 
                   | desde Instagram." 
                 td.text-left Conversión. 
@@ -102,7 +108,9 @@
                 td.text-left CPC (Costo por 
                   i Click
                   | ).
-                td.text-left Determina el costo monetario por cada click en anuncios pagados. 
+                td.text-left Determina el costo monetario por cada 
+                  i click 
+                  | en anuncios pagados. 
                 td.text-left "$0.20 por clic (100 
                   i clicks 
                   | por $20)." 
@@ -115,7 +123,9 @@
               tr
                 td.text-left Frecuencia de publicación.
                 td.text-left Establece el promedio de publicaciones realizadas en un lapso.
-                td.text-left "12 posts semanales (3 + 9 
+                td.text-left "12 
+                  i posts 
+                  | semanales (3 + 9 
                   i stories)."  
                 td.text-left Alcance. 
               tr
@@ -126,7 +136,9 @@
               tr
                 td.text-left Menciones orgánicas.
                 td.text-left Cuantifica las referencias no pagadas a la marca o contenido en redes. 
-                td.text-left "120 menciones en tweets orgánicos."
+                td.text-left "120 menciones en 
+                  i tweets 
+                  | orgánicos."
                 td.text-left 
                   i Engagement.
               tr
@@ -166,7 +178,8 @@
           p.mb-0 
             b Ejemplo empresarial.  
             | Una tienda de tecnología lanza una campaña en Facebook para promocionar laptops. Al analizar las métricas, nota que la conversión en ventas es baja, pero el 
-            i engagement es alto. Con base en estos datos, decide incluir códigos de descuento en las publicaciones para incentivar la compra.
+            i engagement 
+            | es alto. Con base en estos datos, decide incluir códigos de descuento en las publicaciones para incentivar la compra.
       
     separador
 
@@ -178,7 +191,11 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-left")(src='@/assets/curso/tema2/img07.png', alt='imagen decorativa')
       .col-lg-8
-        p.mb-3 Las métricas digitales han revolucionado la forma en que las empresas toman decisiones estratégicas. Antes, muchas decisiones de marketing se basaban en intuiciones o tendencias generales, pero ahora al interpretar estos indicadores, los equipos de marketing pueden ajustar sus estrategias y mejorar el rendimiento de sus campañas (Muñoz & Elosegui, 2018). Al contar con información precisa sobre la interacción de los usuarios, las marcas pueden identificar qué tácticas están funcionando y cuáles necesitan ajustes, optimizando sus esfuerzos para lograr mejores resultados.
+        p.mb-3 Las métricas digitales han revolucionado la forma en que las empresas toman decisiones estratégicas. Antes, muchas decisiones de 
+          i marketing 
+          | se basaban en intuiciones o tendencias generales, pero ahora al interpretar estos indicadores, los equipos de 
+          i marketing 
+          | pueden ajustar sus estrategias y mejorar el rendimiento de sus campañas (Muñoz & Elosegui, 2018). Al contar con información precisa sobre la interacción de los usuarios, las marcas pueden identificar qué tácticas están funcionando y cuáles necesitan ajustes, optimizando sus esfuerzos para lograr mejores resultados.
 
         .bg-color-terciario-t5.p-4.tarjeta.mb-3
           p.mb-0 El verdadero valor de las métricas no está solo en su recopilación, sino en su interpretación. Analizar indicadores como tasas de conversión, niveles de 
@@ -209,7 +226,9 @@
         div.tarjeta-horz.mb-3
           img(src='@/assets/curso/tema2/img09.png', alt='Imagen decorativa')
           div.texto-tarjeta.bg-color-terciario-t5
-            p.mb-0 El tipo de métricas está alineado con los objetivos de marketing de una empresa, ya que son la clave para evaluar si una estrategia realmente está cumpliendo su propósito. Cada estrategia tiene indicadores específicos que ayudan a medir su efectividad (Chaffey & Smith, 2022). No basta con recopilar datos sin sentido, es fundamental identificar aquellos indicadores específicos que reflejan el desempeño de cada acción y que permiten tomar decisiones informadas.
+            p.mb-0 El tipo de métricas está alineado con los objetivos de 
+              i marketing 
+              | de una empresa, ya que son la clave para evaluar si una estrategia realmente está cumpliendo su propósito. Cada estrategia tiene indicadores específicos que ayudan a medir su efectividad (Chaffey & Smith, 2022). No basta con recopilar datos sin sentido, es fundamental identificar aquellos indicadores específicos que reflejan el desempeño de cada acción y que permiten tomar decisiones informadas.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-4
@@ -218,8 +237,12 @@
       .col-lg-8
           p.mb-3 Cada campaña tiene objetivos distintos, ya sea aumentar el reconocimiento de marca, generar tráfico web, mejorar la conversión o fortalecer la fidelidad del cliente. En este sentido, las métricas deben seleccionarse estratégicamente para medir aspectos relevantes de cada iniciativa. Por ejemplo, en una estrategia enfocada en redes sociales, el 
             i engagement,
-            | el alcance y la tasa de interacción son métricas esenciales; mientras que en una campaña de email marketing, la tasa de apertura y el porcentaje de clics resultan determinantes.
-          p.mb-0 Cuando las empresas alinean sus métricas con sus objetivos, pueden realizar ajustes oportunos y optimizar sus esfuerzos en función de datos reales, evitando decisiones basadas en suposiciones. Este enfoque les permite adaptarse a cambios en el mercado, identificar oportunidades de mejora y garantizar que cada inversión en marketing tenga un impacto tangible en el crecimiento del negocio.
+            | el alcance y la tasa de interacción son métricas esenciales; mientras que en una campaña de 
+            i email marketing, 
+            | la tasa de apertura y el porcentaje de clics resultan determinantes.
+          p.mb-0 Cuando las empresas alinean sus métricas con sus objetivos, pueden realizar ajustes oportunos y optimizar sus esfuerzos en función de datos reales, evitando decisiones basadas en suposiciones. Este enfoque les permite adaptarse a cambios en el mercado, identificar oportunidades de mejora y garantizar que cada inversión en 
+            i marketing 
+            | tenga un impacto tangible en el crecimiento del negocio.
 
 
     .bg-color-secundario-s5.align-items-center.p-4.tarjeta.mb-5
@@ -257,7 +280,8 @@
             p.text-bold Métricas de 
               i engagement 
               | (interacción).
-            p Evalúan el nivel de participación del público con el contenido publicado. Reflejan el interés, la conexión y la respuesta de la audiencia. Se manifiestan en indicadores como likes, comentarios, compartidos y clicks.
+            p Evalúan el nivel de participación del público con el contenido publicado. Reflejan el interés, la conexión y la respuesta de la audiencia. Se manifiestan en indicadores como likes, comentarios, compartidos y 
+              i clicks.
       .py-4.py-md-5(titulo="Métricas de conversión" :icono="require('@/assets/curso/tema2/img14.svg')")      
         .row
           .col-12.col-lg-10.m-auto
