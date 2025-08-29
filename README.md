@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[[https://ecored-atlantico.github.io/ECORED-BASE-REPO/](https://ecored-atlantico.github.io/ECORED-BASE-REPO/)](https://ecored-atlantico.github.io/63220007_CF02_Community_management_y_analitica_web/#/)
+https://ecored-atlantico.github.io/63220007_CF02_Community_management_y_analitica_web/#/
 
 #
 
