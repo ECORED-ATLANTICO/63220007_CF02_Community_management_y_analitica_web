@@ -22,7 +22,7 @@
               img(data-aos="fade-in")(src="../assets/curso/intro/img02.svg" alt="Imagen decorativa")
 
     .video.mb-5
-      iframe(width="560" height="315" src="https://www.youtube.com/embed/OFIskkY1D68" title="Análisis estratégico del mercado internacional" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen)
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/JjPV3D5FpuU?si=gRyQeJjkd69-L9Tbnpm" title="Análisis estratégico del mercado internacional" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen)
 
 </template>
 
