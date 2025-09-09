@@ -11,7 +11,7 @@
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-10.col-sm-7.col-lg-4
         figure
-          img(data-aos="fade-in")(src="../assets/curso/intro/img01.png" alt="Imagen decorativa")
+          img(data-aos="fade-in")(src="../assets/curso/intro/img01.png" alt="Imagen decorativa").mb-4.mb-lg-0
       .col-lg-8
         p En un mundo donde la presencia digital define la competitividad de las empresas, la analítica web se ha convertido en una herramienta clave para comprender el comportamiento de los usuarios en plataformas digitales. Ya no basta con publicar contenido; es esencial analizar los datos generados para mejorar estrategias y lograr objetivos de negocio.
         .row.px-4.py-3.bg-color-terciario-t5.rounded-3.align-items-center.justify-content-center

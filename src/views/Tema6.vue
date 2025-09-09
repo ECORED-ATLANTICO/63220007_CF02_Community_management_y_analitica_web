@@ -31,106 +31,111 @@
 
     separador
     
+    
     .titulo-segundo.color-secundario(data-aos="fade-right")
       h2#t_6_1 6.1 Aplicabilidad
 
+    .bg-full-width.bg01
+      .p-5
+        .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-4
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/tema6/img03.png')})`}"
+          )
+          .bloque-texto-g__texto.p-4
+            p.mb-0 Implementar acciones correctivas permite mejorar la conexión con la audiencia y alcanzar mejores resultados (Muñoz & Elosegui, 2018), por eso las estrategias digitales no pueden ser estáticas, deben evolucionar constantemente a medida que se analizan las métricas clave del desempeño. Los datos recopilados sobre el comportamiento de los usuarios, la efectividad de los contenidos y la respuesta a las campañas permiten detectar oportunidades de mejora y ajustar tácticas de manera precisa. Este enfoque dinámico posibilita la optimización en tiempo real, permitiendo que las marcas sean más ágiles y adaptables a las necesidades del mercado. Además, basar las decisiones en información concreta, en lugar de suposiciones, reduce riesgos y fortalece la conexión con la audiencia, garantizando que los esfuerzos digitales sean realmente efectivos.
 
-    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-4
-      .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/tema6/img03.png')})`}"
-      )
-      .bloque-texto-g__texto.p-4
-        p.mb-0 Implementar acciones correctivas permite mejorar la conexión con la audiencia y alcanzar mejores resultados (Muñoz & Elosegui, 2018), por eso las estrategias digitales no pueden ser estáticas, deben evolucionar constantemente a medida que se analizan las métricas clave del desempeño. Los datos recopilados sobre el comportamiento de los usuarios, la efectividad de los contenidos y la respuesta a las campañas permiten detectar oportunidades de mejora y ajustar tácticas de manera precisa. Este enfoque dinámico posibilita la optimización en tiempo real, permitiendo que las marcas sean más ágiles y adaptables a las necesidades del mercado. Además, basar las decisiones en información concreta, en lugar de suposiciones, reduce riesgos y fortalece la conexión con la audiencia, garantizando que los esfuerzos digitales sean realmente efectivos.
+        p.mb-5 Para identificar oportunidades de mejora en una estrategia digital, es importante realizar un análisis sistemático que permita detectar patrones, comparar resultados y probar diferentes enfoques. Estas acciones permiten optimizar los contenidos, mejorar el rendimiento de las campañas y tomar decisiones basadas en datos reales:
 
-    p.mb-5 Para identificar oportunidades de mejora en una estrategia digital, es importante realizar un análisis sistemático que permita detectar patrones, comparar resultados y probar diferentes enfoques. Estas acciones permiten optimizar los contenidos, mejorar el rendimiento de las campañas y tomar decisiones basadas en datos reales:
+        .row.justify-content-center.mb-4
+          .col-10.col-md-12.col-lg-3.mb-4(data-aos="fade-left")
+            .tarjeta-avatar.small-img
+              img(src='@/assets/curso/tema6/img04.svg' alt='AvatarTop').w-25
+              .tarjeta.shadow.bg-white
+                .p-4
+                  p.mb-3
+                    b Análisis de métricas clave.
+                  p.mb-0 Identificar indicadores con bajo rendimiento que requieren intervención.
 
-    .row.justify-content-center.mb-4
-      .col-10.col-md-12.col-lg-3.mb-4(data-aos="fade-right")
-        .tarjeta-avatar.small-img
-          img(src='@/assets/curso/tema6/img04.svg' alt='AvatarTop').w-25
-          .tarjeta.shadow
-            .p-4
-              p.mb-3
-                b Análisis de métricas clave.
-              p.mb-0 Identificar indicadores con bajo rendimiento que requieren intervención.
+          .col-10.col-md-12.col-lg-3.mb-4(data-aos="fade-left")
+            .tarjeta-avatar.small-img
+              img(src='@/assets/curso/tema6/img05.svg' alt='AvatarTop').w-25
+              .tarjeta.shadow.bg-white
+                .p-4
+                  p.mb-3
+                    b Comparación de tendencias.
+                  p.mb-0 Evaluar cómo cambia el comportamiento de la audiencia a lo largo del tiempo..
 
-      .col-10.col-md-12.col-lg-3.mb-4(data-aos="fade-left")
-       .tarjeta-avatar.small-img
-          img(src='@/assets/curso/tema6/img05.svg' alt='AvatarTop').w-25
-          .tarjeta.shadow
-            .p-4
-              p.mb-3
-                b Comparación de tendencias.
-              p.mb-0 Evaluar cómo cambia el comportamiento de la audiencia a lo largo del tiempo..
+          .col-10.col-md-12.col-lg-3.mb-4(data-aos="fade-left")
+            .tarjeta-avatar.small-img
+              img(src='@/assets/curso/tema6/img06.svg' alt='AvatarTop').w-25
+              .tarjeta.shadow.bg-white
+                .p-4
+                  p.mb-3 
+                    b Evaluación de contenido.
+                  p.mb-0 Determinar qué publicaciones generan más o menos interacción.
 
-      .col-10.col-md-12.col-lg-3.mb-4(data-aos="fade-left")
-        .tarjeta-avatar.small-img
-          img(src='@/assets/curso/tema6/img06.svg' alt='AvatarTop').w-25
-          .tarjeta.shadow
-            .p-4
-              p.mb-3 
-                b Evaluación de contenido.
-              p.mb-0 Determinar qué publicaciones generan más o menos interacción.
-
-      .col-10.col-md-12.col-lg-3.mb-4(data-aos="fade-left")
-        .tarjeta-avatar.small-img
-          img(src='@/assets/curso/tema6/img07.svg' alt='AvatarTop').w-25
-          .tarjeta.shadow
-            .p-4
-              p.mb-3
-                b Pruebas A/B.
-              p.mb-0 Comparar dos versiones de contenido para identificar cuál tiene mejor desempeño.
+          .col-10.col-md-12.col-lg-3.mb-4(data-aos="fade-left")
+            .tarjeta-avatar.small-img
+              img(src='@/assets/curso/tema6/img07.svg' alt='AvatarTop').w-25
+              .tarjeta.shadow.bg-white
+                .p-4
+                  p.mb-3
+                    b Pruebas A/B.
+                  p.mb-0 Comparar dos versiones de contenido para identificar cuál tiene mejor desempeño.
 
 
-    .cajon.p-4.bg-color-terciario-t5
-      p.mb-0 Cuando las marcas adoptan un enfoque analítico y proactivo, logran perfeccionar su comunicación, aumentar la tasa de conversión y generar relaciones más sólidas con su público. Este proceso de mejora continua no solo impacta los objetivos comerciales, sino que también eleva la competitividad en un entorno digital cada vez más exigente y dinámico.
+        .cajon.p-4.bg-color-terciario-t5
+          p.mb-0 Cuando las marcas adoptan un enfoque analítico y proactivo, logran perfeccionar su comunicación, aumentar la tasa de conversión y generar relaciones más sólidas con su público. Este proceso de mejora continua no solo impacta los objetivos comerciales, sino que también eleva la competitividad en un entorno digital cada vez más exigente y dinámico.
 
-    separador
+        separador
   
     .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_6_1 6.2 Efectividad de cambios
+      h2#t_6_2 6.2 Efectividad de cambios
     p.mb-5 Después de aplicar acciones correctivas, es esencial medir su impacto. La evaluación de resultados permite verificar si los cambios han mejorado el rendimiento de la estrategia digital (Kaushik, 2020), algunos indicadores clave para evaluar la efectividad de cambios son:  
 
-    .row.justify-content-center.my-3.mb-5(data-aos="zoom-in")
-      .col-12.col-md-6.col-lg-4.mb-4.mb-lg-0.d-flex
-        .tarjeta.bg-color-acento-contenido-a20
-          .row
-            .col-md-12.col-lg-12
-              img(src="@/assets/curso/tema6/img08.png").mx-auto
-              .col-md-12.col-lg-12.p-4.text-center
-                h5.mb-3 Incremento en 
-                  i engagement.
-                p.mb-0 Mayor cantidad de interacciones (
-                  i likes, 
-                  | comentarios, compartidos, entre otros) en publicaciones.
 
-      .col-12.col-md-6.col-lg-4.mb-4.mb-lg-0.d-flex
-        .tarjeta.bg-color-acento-contenido-a20
-          .row
-            .col-md-12.col-lg-12
-              img(src="@/assets/curso/tema6/img09.png").mx-auto
-              .col-md-12.col-lg-12.p-4.text-center
-                h5.mb-3 Reducción de tasa de abandono
-                p.mb-0 Mejor retención de usuarios, con menor porcentaje de salidas rápidas del sitio web.
-          
-      .col-12.col-md-6.col-lg-4.mb-4.mb-lg-0.d-flex
-        .tarjeta.bg-color-acento-contenido-a20
-          .row
-            .col-md-12.col-lg-12
-              img(src="@/assets/curso/tema6/img10.png").mx-auto
-              .col-md-12.col-lg-12.p-4.text-center
-                h5.mb-3 Mejora en conversiones. 
-                p.mb-0 Aumento en registros, compras o suscripciones como resultado de las estrategias aplicadas.
-          
-    .row.col-12.col-lg-8.mx-auto.bg-color-secundario-s5.align-items-center.p-4.tarjeta.mb-4
-      .col-12.col-lg-10
-        .cajon.mb-4.mb-lg-0(data-aos="fade-left")
-          p.mb-0 
-            b Ejemplo empresarial. 
-            | Un gimnasio digital al evaluar que tienen poco tráfico orgánico, decide mejorar el formato de sus publicaciones de videos de 25 minutos, implementando videos de tan solo 10 minutos. Después de un mes, observa que la tasa de interacción ha aumentado un 25 %, lo que confirma la efectividad del ajuste.
-      .col-4.col-md-2.mx-auto
-        figure
-          img.mb-4.mb-lg-0(data-aos="fade-right")(src='@/assets/curso/tema6/img11.png', alt='imagen decorativa')
+    .bg-full-width.bg02
+      .p-5
+        .row.justify-content-center.my-3.mb-5(data-aos="zoom-in")
+          .col-12.col-md-6.col-lg-4.mb-4.mb-lg-0.d-flex
+            .tarjeta.bg-color-acento-contenido-a20
+              .row
+                .col-md-12.col-lg-12
+                  img(src="@/assets/curso/tema6/img08.png").mx-auto
+                  .col-md-12.col-lg-12.p-4.text-center
+                    h5.mb-3 Incremento en 
+                      i engagement.
+                    p.mb-0 Mayor cantidad de interacciones (
+                      i likes, 
+                      | comentarios, compartidos, entre otros) en publicaciones.
+
+          .col-12.col-md-6.col-lg-4.mb-4.mb-lg-0.d-flex
+            .tarjeta.bg-color-acento-contenido-a20
+              .row
+                .col-md-12.col-lg-12
+                  img(src="@/assets/curso/tema6/img09.png").mx-auto
+                  .col-md-12.col-lg-12.p-4.text-center
+                    h5.mb-3 Reducción de tasa de abandono
+                    p.mb-0 Mejor retención de usuarios, con menor porcentaje de salidas rápidas del sitio web.
+              
+          .col-12.col-md-6.col-lg-4.mb-4.mb-lg-0.d-flex
+            .tarjeta.bg-color-acento-contenido-a20
+              .row
+                .col-md-12.col-lg-12
+                  img(src="@/assets/curso/tema6/img10.png").mx-auto
+                  .col-md-12.col-lg-12.p-4.text-center
+                    h5.mb-3 Mejora en conversiones. 
+                    p.mb-0 Aumento en registros, compras o suscripciones como resultado de las estrategias aplicadas.
+              
+        .row.col-12.col-lg-8.mx-auto.bg-color-secundario-s5.align-items-center.p-4.tarjeta.mb-4
+          .col-12.col-lg-9
+            .cajon.mb-4.mb-lg-0(data-aos="fade-left")
+              p.mb-0 
+                b Ejemplo empresarial. 
+                | Un gimnasio digital al evaluar que tienen poco tráfico orgánico, decide mejorar el formato de sus publicaciones de videos de 25 minutos, implementando videos de tan solo 10 minutos. Después de un mes, observa que la tasa de interacción ha aumentado un 25 %, lo que confirma la efectividad del ajuste.
+          .col-6.col-md-6.col-lg-3.mx-auto
+            figure
+              img.mb-4.mb-lg-0(data-aos="fade-right")(src='@/assets/curso/tema6/img11.png', alt='imagen decorativa')
 
 
 </template>

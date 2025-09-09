@@ -94,31 +94,34 @@
                 i (Time-bound)
               p.text-center.mb-0 Tienen un plazo definido para su cumplimiento.
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-7.col-lg-3
-        figure
-          img.mb-4.mb-lg-0(data-aos="fade-left")(src='@/assets/curso/tema3/img07.png', alt='imagen decorativa')
-      .col-lg-9
-          p.mb-0 Los objetivos SMART en marketing digital son fundamentales para asegurar estrategias efectivas y con propósito. Definir metas específicas permite enfocarse en lo que realmente se quiere lograr, mientras que la capacidad de medir resultados con datos concretos evita la improvisación. Es clave que sean alcanzables y realistas dentro de los recursos disponibles, además de alinearse con la estrategia del negocio para garantizar su relevancia. Finalmente, establecer un plazo impulsa la acción y evita que las ideas queden en el aire. En el mundo digital, donde todo avanza a gran velocidad, contar con objetivos SMART le permite a una empresa mantener el enfoque y tomar decisiones con confianza, al establecer metas claras y alcanzables, se asegura que cada paso contribuye a su crecimiento y éxito dentro del mercado.
 
-    .row
-      .col-12.col.col-lg-9.mb-4.mb-lg-0
-        LineaTiempoD.color-secundario
-          .row(numero="1" titulo="Específico")
-            p.mb-0 Las acciones deben estar claramente definidas, como publicar diariamente en redes sociales, aplicar estrategias SEO para atraer visitas al sitio web o mejorar la tasa de conversión mediante campañas segmentadas de email marketing.
-          .row(numero="2" titulo="Medible")
-            p.mb-0 Los objetivos deben expresarse con datos concretos, como aumentar en un 20 % los seguidores en Instagram, lograr 5.000 visitas mensuales en el sitio web o alcanzar una tasa de apertura del 30 % en correos.
-          .row(numero="3" titulo="Alcanzable")
-            p.mb-0 Los resultados deben ser viables, como adquirir 10 nuevos clientes mensualmente con publicidad digital, reducir en un 15 % el costo por adquisición o crear contenido en video sin incrementar de forma considerable el presupuesto disponible.
-          .row(numero="4" titulo="Relevante")
-            p.mb-0 Cada objetivo debe aportar valor al negocio, como fortalecer la presencia digital para ganar confianza, generar contenido que afiance la marca o diseñar estrategias que impulsen el crecimiento dentro del mercado y del sector específico.
-          .row(numero="5" titulo="Temporal")
-            p.mb-0 Es importante establecer plazos claros, como lanzar una campaña promocional en el próximo mes, duplicar los suscriptores en seis meses o lograr un posicionamiento competitivo en el mercado en el transcurso de un año.
-      .col-9.col-lg-3.mx-auto
-        figure
-          img.mb-4.mb-lg-0(data-aos="fade-left")(src='@/assets/curso/tema3/img08.png', alt='imagen decorativa')
+    .bg-full-width.bg0
+      .p-5
+        .row.justify-content-center.align-items-center.mb-5
+          .col-7.col-lg-3
+            figure
+              img.mb-4.mb-lg-0(data-aos="fade-left")(src='@/assets/curso/tema3/img07.png', alt='imagen decorativa')
+          .col-lg-9
+              p.mb-0 Los objetivos SMART en marketing digital son fundamentales para asegurar estrategias efectivas y con propósito. Definir metas específicas permite enfocarse en lo que realmente se quiere lograr, mientras que la capacidad de medir resultados con datos concretos evita la improvisación. Es clave que sean alcanzables y realistas dentro de los recursos disponibles, además de alinearse con la estrategia del negocio para garantizar su relevancia. Finalmente, establecer un plazo impulsa la acción y evita que las ideas queden en el aire. En el mundo digital, donde todo avanza a gran velocidad, contar con objetivos SMART le permite a una empresa mantener el enfoque y tomar decisiones con confianza, al establecer metas claras y alcanzables, se asegura que cada paso contribuye a su crecimiento y éxito dentro del mercado.
 
-      
+        .row
+          .col-12.col.col-lg-9.mb-4.mb-lg-0
+            LineaTiempoD.color-secundario
+              .row(numero="1" titulo="Específico")
+                p.mb-0 Las acciones deben estar claramente definidas, como publicar diariamente en redes sociales, aplicar estrategias SEO para atraer visitas al sitio web o mejorar la tasa de conversión mediante campañas segmentadas de email marketing.
+              .row(numero="2" titulo="Medible")
+                p.mb-0 Los objetivos deben expresarse con datos concretos, como aumentar en un 20 % los seguidores en Instagram, lograr 5.000 visitas mensuales en el sitio web o alcanzar una tasa de apertura del 30 % en correos.
+              .row(numero="3" titulo="Alcanzable")
+                p.mb-0 Los resultados deben ser viables, como adquirir 10 nuevos clientes mensualmente con publicidad digital, reducir en un 15 % el costo por adquisición o crear contenido en video sin incrementar de forma considerable el presupuesto disponible.
+              .row(numero="4" titulo="Relevante")
+                p.mb-0 Cada objetivo debe aportar valor al negocio, como fortalecer la presencia digital para ganar confianza, generar contenido que afiance la marca o diseñar estrategias que impulsen el crecimiento dentro del mercado y del sector específico.
+              .row(numero="5" titulo="Temporal")
+                p.mb-0 Es importante establecer plazos claros, como lanzar una campaña promocional en el próximo mes, duplicar los suscriptores en seis meses o lograr un posicionamiento competitivo en el mercado en el transcurso de un año.
+          .col-9.col-lg-3.mx-auto
+            figure
+              img.mb-4.mb-lg-0(data-aos="fade-left")(src='@/assets/curso/tema3/img08.png', alt='imagen decorativa')
+
+          
 
 </template>
 

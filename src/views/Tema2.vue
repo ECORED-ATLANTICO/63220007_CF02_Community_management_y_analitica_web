@@ -57,117 +57,118 @@
           i engagement 
           | o conversión. Esta información permite interpretar de forma precisa el rendimiento de las estrategias digitales.
     
+    .bg-full-width.bg01
+      .p-5
+        .row.justify-content-center.align-items-center.my-3.mb-5(data-aos="")
+          .col-md-12.col-lg-11
+            .titulo-sexto.mb-4
+              h5 Tabla 1. 
+                span Métricas más usadas
 
-    .row.justify-content-center.align-items-center.my-3.mb-5(data-aos="")
-      .col-md-12.col-lg-11
-        .titulo-sexto.mb-4
-          h5 Tabla 1. 
-            span Métricas más usadas
-
-        .tabla-a
-          table
-            caption 
-              b Fuente:
-              | SENA 2025
-            thead
-              tr
-                th Nombre de la métrica
-                th Descripción
-                th Ejemplo
-                th Tipo
-            tbody
-              tr
-                td.text-left Alcance 
-                  i (Reach).
-                td.text-left Representa el número total de usuarios únicos que visualizaron una publicación. 
-                td.text-left "El 
-                  i post 
-                  | alcanzó a 1,200 usuarios." 
-                td.text-left Alcance. 
-              tr
-                td.text-left 
-                  i Clicks 
-                  | por enlace.
-                td.text-left Registra los 
-                  i clicks 
-                  | en enlaces incluidos en el contenido. 
-                td.text-left "El 
-                  i link 
-                  | recibió 150 
-                  i clicks 
-                  | desde Instagram." 
-                td.text-left Conversión. 
-              tr
-                td.text-left Compartidos 
-                  i (Shares).
-                td.text-left Indica cuántas veces los usuarios redistribuyeron el contenido en sus redes. 
-                td.text-left "El video fue compartido 300 veces." 
-                td.text-left 
-                  i Engagement. 
-              tr
-                td.text-left CPC (Costo por 
-                  i Click
-                  | ).
-                td.text-left Determina el costo monetario por cada 
-                  i click 
-                  | en anuncios pagados. 
-                td.text-left "$0.20 por clic (100 
-                  i clicks 
-                  | por $20)." 
-                td.text-left Conversión. 
-              tr
-                td.text-left Crecimiento de seguidores.
-                td.text-left Calcula el aumento neto de seguidores en un periodo determinado.
-                td.text-left "+800 seguidores (600 orgánicos)."  
-                td.text-left Estos 
-              tr
-                td.text-left Frecuencia de publicación.
-                td.text-left Establece el promedio de publicaciones realizadas en un lapso.
-                td.text-left "12 
-                  i posts 
-                  | semanales (3 + 9 
-                  i stories)."  
-                td.text-left Alcance. 
-              tr
-                td.text-left Impresiones.
-                td.text-left Cuenta las veces que una publicación apareció en pantallas, incluyendo visualizaciones repetidas.
-                td.text-left "El anuncio generó 5,000 impresiones." 
-                td.text-left Alcance. 
-              tr
-                td.text-left Menciones orgánicas.
-                td.text-left Cuantifica las referencias no pagadas a la marca o contenido en redes. 
-                td.text-left "120 menciones en 
-                  i tweets 
-                  | orgánicos."
-                td.text-left 
-                  i Engagement.
-              tr
-                td.text-left ROI (Retorno de inversión).
-                td.text-left Evalúa la ganancia económica obtenida en comparación con el costo de la campaña. 
-                td.text-left "$5,000 en ventas por $1,000 invertidos." 
-                td.text-left Conversión. 
-              tr
-                td.text-left Tasa de 
-                  i engagement.
-                td.text-left Calcula la interacción total (
-                  i likes, 
-                  | comentarios, shares) en relación con el alcance. 
-                td.text-left "La publicación tuvo un 8 % de 
-                  i engagement." 
-                td.text-left 
-                  i Engagement. 
-              tr
-                td.text-left Tasa de retención (video).
-                td.text-left Mide el porcentaje de espectadores que continúan viendo un video tras los primeros segundos. 
-                td.text-left "70 % retención hasta el minuto 5." 
-                td.text-left 
-                  i Engagement. 
-              tr
-                td.text-left Tiempo de visualización.
-                td.text-left Refleja la duración promedio que los usuarios permanecen en un video o contenido. 
-                td.text-left "El video se vio 1 minuto (de 3 totales)." 
-                td.text-left 
-                  i Engagement. 
+            .tabla-a
+              table
+                caption 
+                  b Fuente:
+                  | SENA 2025
+                thead
+                  tr
+                    th Nombre de la métrica
+                    th Descripción
+                    th Ejemplo
+                    th Tipo
+                tbody
+                  tr
+                    td.text-left Alcance 
+                      i (Reach).
+                    td.text-left Representa el número total de usuarios únicos que visualizaron una publicación. 
+                    td.text-left "El 
+                      i post 
+                      | alcanzó a 1,200 usuarios." 
+                    td.text-left Alcance. 
+                  tr
+                    td.text-left 
+                      i Clicks 
+                      | por enlace.
+                    td.text-left Registra los 
+                      i clicks 
+                      | en enlaces incluidos en el contenido. 
+                    td.text-left "El 
+                      i link 
+                      | recibió 150 
+                      i clicks 
+                      | desde Instagram." 
+                    td.text-left Conversión. 
+                  tr
+                    td.text-left Compartidos 
+                      i (Shares).
+                    td.text-left Indica cuántas veces los usuarios redistribuyeron el contenido en sus redes. 
+                    td.text-left "El video fue compartido 300 veces." 
+                    td.text-left 
+                      i Engagement. 
+                  tr
+                    td.text-left CPC (Costo por 
+                      i Click
+                      | ).
+                    td.text-left Determina el costo monetario por cada 
+                      i click 
+                      | en anuncios pagados. 
+                    td.text-left "$0.20 por clic (100 
+                      i clicks 
+                      | por $20)." 
+                    td.text-left Conversión. 
+                  tr
+                    td.text-left Crecimiento de seguidores.
+                    td.text-left Calcula el aumento neto de seguidores en un periodo determinado.
+                    td.text-left "+800 seguidores (600 orgánicos)."  
+                    td.text-left Estos 
+                  tr
+                    td.text-left Frecuencia de publicación.
+                    td.text-left Establece el promedio de publicaciones realizadas en un lapso.
+                    td.text-left "12 
+                      i posts 
+                      | semanales (3 + 9 
+                      i stories)."  
+                    td.text-left Alcance. 
+                  tr
+                    td.text-left Impresiones.
+                    td.text-left Cuenta las veces que una publicación apareció en pantallas, incluyendo visualizaciones repetidas.
+                    td.text-left "El anuncio generó 5,000 impresiones." 
+                    td.text-left Alcance. 
+                  tr
+                    td.text-left Menciones orgánicas.
+                    td.text-left Cuantifica las referencias no pagadas a la marca o contenido en redes. 
+                    td.text-left "120 menciones en 
+                      i tweets 
+                      | orgánicos."
+                    td.text-left 
+                      i Engagement.
+                  tr
+                    td.text-left ROI (Retorno de inversión).
+                    td.text-left Evalúa la ganancia económica obtenida en comparación con el costo de la campaña. 
+                    td.text-left "$5,000 en ventas por $1,000 invertidos." 
+                    td.text-left Conversión. 
+                  tr
+                    td.text-left Tasa de 
+                      i engagement.
+                    td.text-left Calcula la interacción total (
+                      i likes, 
+                      | comentarios, shares) en relación con el alcance. 
+                    td.text-left "La publicación tuvo un 8 % de 
+                      i engagement." 
+                    td.text-left 
+                      i Engagement. 
+                  tr
+                    td.text-left Tasa de retención (video).
+                    td.text-left Mide el porcentaje de espectadores que continúan viendo un video tras los primeros segundos. 
+                    td.text-left "70 % retención hasta el minuto 5." 
+                    td.text-left 
+                      i Engagement. 
+                  tr
+                    td.text-left Tiempo de visualización.
+                    td.text-left Refleja la duración promedio que los usuarios permanecen en un video o contenido. 
+                    td.text-left "El video se vio 1 minuto (de 3 totales)." 
+                    td.text-left 
+                      i Engagement. 
       
     .row.col-12.col-lg-8.mx-auto.bg-color-terciario-t5.align-items-center.p-4.tarjeta.mb-5
       .col-8.col-md-3.mx-auto
@@ -183,37 +184,40 @@
       
     separador
 
-    .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_2_1 2.1 Importancia
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-lg-4
-        figure
-          img.mb-4.mb-lg-0(data-aos="fade-left")(src='@/assets/curso/tema2/img07.png', alt='imagen decorativa')
-      .col-lg-8
-        p.mb-3 Las métricas digitales han revolucionado la forma en que las empresas toman decisiones estratégicas. Antes, muchas decisiones de 
-          i marketing 
-          | se basaban en intuiciones o tendencias generales, pero ahora al interpretar estos indicadores, los equipos de 
-          i marketing 
-          | pueden ajustar sus estrategias y mejorar el rendimiento de sus campañas (Muñoz & Elosegui, 2018). Al contar con información precisa sobre la interacción de los usuarios, las marcas pueden identificar qué tácticas están funcionando y cuáles necesitan ajustes, optimizando sus esfuerzos para lograr mejores resultados.
+    .bg-full-width.bg01
+      .p-5
+        .titulo-segundo.color-secundario(data-aos="fade-right")
+          h2#t_2_1 2.1 Importancia
 
-        .bg-color-terciario-t5.p-4.tarjeta.mb-3
-          p.mb-0 El verdadero valor de las métricas no está solo en su recopilación, sino en su interpretación. Analizar indicadores como tasas de conversión, niveles de 
-            i engagement 
-            | y alcance permite detectar patrones y oportunidades de mejora. Por ejemplo, si una empresa observa que ciertas publicaciones generan más interacción en un horario específico, puede adaptar su estrategia para aprovechar ese comportamiento. Así, la toma de decisiones se vuelve más efectiva, basada en datos concretos y alineada con los hábitos de consumo del público objetivo.
-        p.mb-3 Además, el análisis de métricas no solo impacta el rendimiento inmediato de una estrategia digital, sino que también contribuye a la construcción de relaciones más sólidas con los clientes. Al comprender qué contenido les interesa, cómo interactúan con la marca y qué plataformas prefieren, las empresas pueden personalizar sus mensajes y mejorar la experiencia del usuario. En un mundo digital cada vez más competitivo, el uso inteligente de métricas es una ventaja clave para cualquier negocio que busque crecer y consolidarse en el mercado. 
-    
+        .row.justify-content-center.align-items-center.mb-5
+          .col-10.col-lg-4
+            figure
+              img.mb-4.mb-lg-0(data-aos="fade-left")(src='@/assets/curso/tema2/img07.png', alt='imagen decorativa')
+          .col-lg-8
+            p.mb-3 Las métricas digitales han revolucionado la forma en que las empresas toman decisiones estratégicas. Antes, muchas decisiones de 
+              i marketing 
+              | se basaban en intuiciones o tendencias generales, pero ahora al interpretar estos indicadores, los equipos de 
+              i marketing 
+              | pueden ajustar sus estrategias y mejorar el rendimiento de sus campañas (Muñoz & Elosegui, 2018). Al contar con información precisa sobre la interacción de los usuarios, las marcas pueden identificar qué tácticas están funcionando y cuáles necesitan ajustes, optimizando sus esfuerzos para lograr mejores resultados.
 
-    .row.col-12.col-lg-8.mx-auto.bg-color-secundario-s5.align-items-center.p-4.tarjeta.mb-5
-      .col-12.col-lg-9
-        .cajon.mb-4.mb-lg-0(data-aos="fade-left")
-          p.mb-0 
-            b Ejemplo empresarial.  
-            | Un gimnasio lanza una campaña de publicidad en Instagram. Tras evaluar las métricas, nota que los anuncios con testimonios de clientes tienen más interacción que los anuncios tradicionales. Con esta información, deciden enfocarse en contenido generado por usuarios para mejorar su estrategia publicitaria.
-      .col-8.col-md-3.mx-auto
-        figure
-          img.mb-4.mb-lg-0(data-aos="fade-right")(src='@/assets/curso/tema2/img08.png', alt='imagen decorativa')
-    
+            .bg-color-terciario-t5.p-4.tarjeta.mb-3
+              p.mb-0 El verdadero valor de las métricas no está solo en su recopilación, sino en su interpretación. Analizar indicadores como tasas de conversión, niveles de 
+                i engagement 
+                | y alcance permite detectar patrones y oportunidades de mejora. Por ejemplo, si una empresa observa que ciertas publicaciones generan más interacción en un horario específico, puede adaptar su estrategia para aprovechar ese comportamiento. Así, la toma de decisiones se vuelve más efectiva, basada en datos concretos y alineada con los hábitos de consumo del público objetivo.
+            p.mb-3 Además, el análisis de métricas no solo impacta el rendimiento inmediato de una estrategia digital, sino que también contribuye a la construcción de relaciones más sólidas con los clientes. Al comprender qué contenido les interesa, cómo interactúan con la marca y qué plataformas prefieren, las empresas pueden personalizar sus mensajes y mejorar la experiencia del usuario. En un mundo digital cada vez más competitivo, el uso inteligente de métricas es una ventaja clave para cualquier negocio que busque crecer y consolidarse en el mercado. 
+        
+
+        .row.col-12.col-lg-8.mx-auto.bg-color-secundario-s5.align-items-center.p-4.tarjeta.mb-5
+          .col-12.col-lg-9
+            .cajon.mb-4.mb-lg-0(data-aos="fade-left")
+              p.mb-0 
+                b Ejemplo empresarial.  
+                | Un gimnasio lanza una campaña de publicidad en Instagram. Tras evaluar las métricas, nota que los anuncios con testimonios de clientes tienen más interacción que los anuncios tradicionales. Con esta información, deciden enfocarse en contenido generado por usuarios para mejorar su estrategia publicitaria.
+          .col-8.col-md-3.mx-auto
+            figure
+              img.mb-4.mb-lg-0(data-aos="fade-right")(src='@/assets/curso/tema2/img08.png', alt='imagen decorativa')
+        
     
     separador
 
@@ -268,33 +272,33 @@
     
     p.mb-5 Las métricas digitales pueden clasificarse según el tipo de información que ofrecen. Esta categorización facilita su interpretación y permite tomar decisiones más acertadas en función del comportamiento del usuario en entornos digitales.
 
-    TabsB.color-primario.mb-5
-      .py-4.py-md-5(titulo="Métricas de alcance" :icono="require('@/assets/curso/tema2/img12.svg')")
+    TabsB.color-secundario.mb-5
+      .py-4.py-md-5(titulo="Métricas de alcance" :icono="require('@/assets/curso/tema2/img12.svg')").bg_lightbluegray
         .row
-          .col-12.col-lg-10.m-auto
+          .col-10.col-lg-10.mx-auto
             p.text-bold Métricas de alcance
             p Estas métricas permiten conocer cuántas personas han visto un contenido en redes o plataformas digitales. Son clave para medir la visibilidad de una campaña. Ejemplos comunes incluyen impresiones, alcance total y visualizaciones.
-      .py-4.py-md-5(titulo="Métricas de <em>engagement</em> (interacción)." :icono="require('@/assets/curso/tema2/img13.svg')")      
+      .py-4.py-md-5(titulo="Métricas de <em>engagement</em> (interacción)." :icono="require('@/assets/curso/tema2/img13.svg')").bg_lightbluegray     
         .row
-          .col-12.col-lg-10.m-auto
+          .col-10.col-lg-10.mx-auto
             p.text-bold Métricas de 
               i engagement 
               | (interacción).
             p Evalúan el nivel de participación del público con el contenido publicado. Reflejan el interés, la conexión y la respuesta de la audiencia. Se manifiestan en indicadores como likes, comentarios, compartidos y 
               i clicks.
-      .py-4.py-md-5(titulo="Métricas de conversión" :icono="require('@/assets/curso/tema2/img14.svg')")      
+      .py-4.py-md-5(titulo="Métricas de conversión" :icono="require('@/assets/curso/tema2/img14.svg')").bg_lightbluegray    
         .row
-          .col-12.col-lg-10.m-auto
+          .col-10.col-lg-10.mx-auto
             p.text-bold Métricas de conversión
             p Indican si los usuarios realizaron una acción específica luego de interactuar con el contenido, como comprar, registrarse o descargar un recurso. Muestran el impacto directo de la estrategia digital en los objetivos del negocio.
-      .py-4.py-md-5(titulo="Métricas de retención o fidelización" :icono="require('@/assets/curso/tema2/img15.svg')")      
+      .py-4.py-md-5(titulo="Métricas de retención o fidelización" :icono="require('@/assets/curso/tema2/img15.svg')").bg_lightbluegray     
         .row
-          .col-12.col-lg-10.m-auto
+          .col-10.col-lg-10.mx-auto
             p.text-bold Métricas de retención o fidelización
             p Miden si los usuarios continúan consumiendo contenido o regresan a la plataforma. Son esenciales para entender el compromiso sostenido. Ejemplos incluyen la tasa de rebote, el tiempo de permanencia y la recurrencia de visitas.
-      .py-4.py-md-5(titulo="Métricas de tráfico" :icono="require('@/assets/curso/tema2/img16.svg')")      
+      .py-4.py-md-5(titulo="Métricas de tráfico" :icono="require('@/assets/curso/tema2/img16.svg')").bg_lightbluegray    
         .row
-          .col-12.col-lg-10.m-auto
+          .col-10.col-lg-10.mx-auto
             p.text-bold Métricas de tráfico
             p Analizan cuántas personas visitan un sitio web, desde dónde llegan y qué páginas consumen. Ayudan a comprender el comportamiento de navegación y la efectividad de las fuentes de atracción de usuarios.
 
