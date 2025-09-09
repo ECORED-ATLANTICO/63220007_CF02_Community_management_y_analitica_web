@@ -31,61 +31,62 @@
 
     separador
     
-    
-    .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_6_1 6.1 Aplicabilidad
-
     .bg-full-width.bg01
       .p-5
-        .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-4
-          .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/tema6/img03.png')})`}"
-          )
-          .bloque-texto-g__texto.p-4
-            p.mb-0 Implementar acciones correctivas permite mejorar la conexión con la audiencia y alcanzar mejores resultados (Muñoz & Elosegui, 2018), por eso las estrategias digitales no pueden ser estáticas, deben evolucionar constantemente a medida que se analizan las métricas clave del desempeño. Los datos recopilados sobre el comportamiento de los usuarios, la efectividad de los contenidos y la respuesta a las campañas permiten detectar oportunidades de mejora y ajustar tácticas de manera precisa. Este enfoque dinámico posibilita la optimización en tiempo real, permitiendo que las marcas sean más ágiles y adaptables a las necesidades del mercado. Además, basar las decisiones en información concreta, en lugar de suposiciones, reduce riesgos y fortalece la conexión con la audiencia, garantizando que los esfuerzos digitales sean realmente efectivos.
+        .titulo-segundo.color-secundario(data-aos="fade-right")
+          h2#t_6_1 6.1 Aplicabilidad
 
-        p.mb-5 Para identificar oportunidades de mejora en una estrategia digital, es importante realizar un análisis sistemático que permita detectar patrones, comparar resultados y probar diferentes enfoques. Estas acciones permiten optimizar los contenidos, mejorar el rendimiento de las campañas y tomar decisiones basadas en datos reales:
+        .bg-full-width.bg01
+          .p-5
+            .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-4
+              .bloque-texto-g__img(
+                :style="{'background-image': `url(${require('@/assets/curso/tema6/img03.png')})`}"
+              )
+              .bloque-texto-g__texto.p-4
+                p.mb-0 Implementar acciones correctivas permite mejorar la conexión con la audiencia y alcanzar mejores resultados (Muñoz & Elosegui, 2018), por eso las estrategias digitales no pueden ser estáticas, deben evolucionar constantemente a medida que se analizan las métricas clave del desempeño. Los datos recopilados sobre el comportamiento de los usuarios, la efectividad de los contenidos y la respuesta a las campañas permiten detectar oportunidades de mejora y ajustar tácticas de manera precisa. Este enfoque dinámico posibilita la optimización en tiempo real, permitiendo que las marcas sean más ágiles y adaptables a las necesidades del mercado. Además, basar las decisiones en información concreta, en lugar de suposiciones, reduce riesgos y fortalece la conexión con la audiencia, garantizando que los esfuerzos digitales sean realmente efectivos.
 
-        .row.justify-content-center.mb-4
-          .col-10.col-md-12.col-lg-3.mb-4(data-aos="fade-left")
-            .tarjeta-avatar.small-img
-              img(src='@/assets/curso/tema6/img04.svg' alt='AvatarTop').w-25
-              .tarjeta.shadow.bg-white
-                .p-4
-                  p.mb-3
-                    b Análisis de métricas clave.
-                  p.mb-0 Identificar indicadores con bajo rendimiento que requieren intervención.
+            p.mb-5 Para identificar oportunidades de mejora en una estrategia digital, es importante realizar un análisis sistemático que permita detectar patrones, comparar resultados y probar diferentes enfoques. Estas acciones permiten optimizar los contenidos, mejorar el rendimiento de las campañas y tomar decisiones basadas en datos reales:
 
-          .col-10.col-md-12.col-lg-3.mb-4(data-aos="fade-left")
-            .tarjeta-avatar.small-img
-              img(src='@/assets/curso/tema6/img05.svg' alt='AvatarTop').w-25
-              .tarjeta.shadow.bg-white
-                .p-4
-                  p.mb-3
-                    b Comparación de tendencias.
-                  p.mb-0 Evaluar cómo cambia el comportamiento de la audiencia a lo largo del tiempo..
+            .row.justify-content-center.mb-4
+              .col-12.col-md-6.col-lg-3.mb-4(data-aos="fade-left")
+                .tarjeta-avatar.small-img
+                  img(src='@/assets/curso/tema6/img04.svg' alt='AvatarTop').w-25
+                  .tarjeta.shadow.bg-white
+                    .p-4
+                      p.mb-3
+                        b Análisis de métricas clave.
+                      p.mb-0 Identificar indicadores con bajo rendimiento que requieren intervención.
 
-          .col-10.col-md-12.col-lg-3.mb-4(data-aos="fade-left")
-            .tarjeta-avatar.small-img
-              img(src='@/assets/curso/tema6/img06.svg' alt='AvatarTop').w-25
-              .tarjeta.shadow.bg-white
-                .p-4
-                  p.mb-3 
-                    b Evaluación de contenido.
-                  p.mb-0 Determinar qué publicaciones generan más o menos interacción.
+              .col-12.col-md-6.col-lg-3.mb-4(data-aos="fade-left")
+                .tarjeta-avatar.small-img
+                  img(src='@/assets/curso/tema6/img05.svg' alt='AvatarTop').w-25
+                  .tarjeta.shadow.bg-white
+                    .p-4
+                      p.mb-3
+                        b Comparación de tendencias.
+                      p.mb-0 Evaluar cómo cambia el comportamiento de la audiencia a lo largo del tiempo..
 
-          .col-10.col-md-12.col-lg-3.mb-4(data-aos="fade-left")
-            .tarjeta-avatar.small-img
-              img(src='@/assets/curso/tema6/img07.svg' alt='AvatarTop').w-25
-              .tarjeta.shadow.bg-white
-                .p-4
-                  p.mb-3
-                    b Pruebas A/B.
-                  p.mb-0 Comparar dos versiones de contenido para identificar cuál tiene mejor desempeño.
+              .col-12.col-md-6.col-lg-3.mb-4(data-aos="fade-left")
+                .tarjeta-avatar.small-img
+                  img(src='@/assets/curso/tema6/img06.svg' alt='AvatarTop').w-25
+                  .tarjeta.shadow.bg-white
+                    .p-4
+                      p.mb-3 
+                        b Evaluación de contenido.
+                      p.mb-0 Determinar qué publicaciones generan más o menos interacción.
+
+              .col-12.col-md-6.col-lg-3.mb-4(data-aos="fade-left")
+                .tarjeta-avatar.small-img
+                  img(src='@/assets/curso/tema6/img07.svg' alt='AvatarTop').w-25
+                  .tarjeta.shadow.bg-white
+                    .p-4
+                      p.mb-3
+                        b Pruebas A/B.
+                      p.mb-0 Comparar dos versiones de contenido para identificar cuál tiene mejor desempeño.
 
 
-        .cajon.p-4.bg-color-terciario-t5
-          p.mb-0 Cuando las marcas adoptan un enfoque analítico y proactivo, logran perfeccionar su comunicación, aumentar la tasa de conversión y generar relaciones más sólidas con su público. Este proceso de mejora continua no solo impacta los objetivos comerciales, sino que también eleva la competitividad en un entorno digital cada vez más exigente y dinámico.
+            .cajon.p-4.bg-color-terciario-t5
+              p.mb-0 Cuando las marcas adoptan un enfoque analítico y proactivo, logran perfeccionar su comunicación, aumentar la tasa de conversión y generar relaciones más sólidas con su público. Este proceso de mejora continua no solo impacta los objetivos comerciales, sino que también eleva la competitividad en un entorno digital cada vez más exigente y dinámico.
 
         separador
   

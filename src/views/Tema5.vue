@@ -7,7 +7,7 @@
         span 5
       h1 Herramientas de análisis
 
-    .bg-full-width.bg02
+    .bg-full-width.bg01
       .p-5
         .row.justify-content-center.align-items-center.mb-3
           .col-10.col-lg-4
@@ -23,9 +23,9 @@
           | accionables que potencien el rendimiento y la competitividad en el entorno digital.
       
         .row.align-items-center.bg-color-acento-contenido-a10.p-2.tarjeta.w-100.mb-5
-          .col-9.col-lg-10
+          .col-12.col-md-9.col-lg-10
             p.mb-0 Para lograrlo, es clave contar con herramientas de analítica web que faciliten el procesamiento y la interpretación de grandes volúmenes de información mediante funcionalidades específicas.
-          .col-3.col-lg-2.mx-auto
+          .col-8.col-md-3.col-lg-2.mx-auto
             img(src='@/assets/curso/tema5/img02.png', alt='Imagen decorativa')
 
         .row.mb-4.align-items-center
@@ -151,25 +151,25 @@
           p Los informes, conocidos también como reportes de métricas, juegan un papel esencial en el análisis del desempeño de una estrategia digital, ya que permiten transformar datos en información valiosa para la toma de decisiones. La correcta estructuración de estos informes facilita la toma de decisiones informadas (Muñoz & Elosegui, 2018).
           p.p-3.bg-color-acento-contenido-a10 Más allá de presentar cifras y tendencias, un reporte bien estructurado debe ofrecer contexto, interpretación y recomendaciones estratégicas que ayuden a optimizar las acciones futuras. La recopilación y organización efectiva de las métricas facilita la identificación de patrones en el comportamiento de los usuarios, el rendimiento de campañas y la eficiencia de los canales digitales utilizados. Esto no solo permite evaluar qué tácticas han sido más exitosas, sino también detectar oportunidades de mejora y ajustar la estrategia según las necesidades del negocio y del mercado.
 
-    p.mb-4 Para que estos informes sean realmente útiles, es fundamental que presenten los datos de manera clara y relevante, alineándose con los objetivos de la organización. Un reporte bien diseñado debe incluir métricas clave como alcance, 
+    p.mb-0 Para que estos informes sean realmente útiles, es fundamental que presenten los datos de manera clara y relevante, alineándose con los objetivos de la organización. Un reporte bien diseñado debe incluir métricas clave como alcance, 
       i engagement 
       | y conversión, pero también análisis cualitativo que ayude a entender las razones detrás de los números. Además, la periodicidad y actualización constante de estos reportes garantizan que las decisiones se tomen con información vigente y basada en tendencias reales. Al integrar herramientas de visualización y una estructura lógica, los reportes de métricas pueden convertirse en una fuente poderosa de conocimiento, impulsando estrategias digitales más precisas y efectivas.
 
-
-    .row.p-3.tarjeta.bg-gradient-morado.align-items-center.mb-4
-      .col-12.col-lg-10
-        p.text-white.mb-lg-0
-          b Lo invitamos a explorar el siguiente enlace, el cual permite acceder a un ejemplo de reporte de análisis de métricas presentado a través de un 
-            i dashboard 
-            | interactivo.
-      .col-4.col-lg-2.text-center
-        a.boton.color-acento-botone(href=" https://portermetrics.com/wp-content/uploads/2025/05/Social-Media-dashboard.pdf" target="_blank")
-          span Enlace
-          i.fas.fa-link
-
-
     .bg-full-width.bg02
       .p-5
+        .row.p-3.tarjeta.bg-gradient-morado.align-items-center.mb-4
+          .col-12.col-lg-10
+            p.text-white.mb-lg-0
+              b Lo invitamos a explorar el siguiente enlace, el cual permite acceder a un ejemplo de reporte de análisis de métricas presentado a través de un 
+                i dashboard 
+                | interactivo.
+          .col-4.col-lg-2.text-center
+            a.boton.color-acento-botone(href=" https://portermetrics.com/wp-content/uploads/2025/05/Social-Media-dashboard.pdf" target="_blank")
+              span Enlace
+              i.fas.fa-link
+
+
+    
         p.mb-5 Para la creación de reportes de análisis, se debe seguir una secuencia lógica que facilite la toma de decisiones estratégicas. Esta incluye la definición de objetivos, la recolección de datos, su organización clara en reportes visuales y la interpretación de los resultados obtenidos.
 
         .row.justify-content-center.mb-4.p-4.p-lg-0

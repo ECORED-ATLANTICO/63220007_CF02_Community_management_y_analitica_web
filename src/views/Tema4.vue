@@ -82,7 +82,7 @@
           p.mb-0 Le invitamos a ver el siguiente video por medio del cual podrá apreciar un poco más al detalle sobre los 
             i insight.
 
-    .bg-full-width.bg02
+    .bg-full-width.bg01
       .p-5
           .row.p-3.tarjeta.bg-gradient-morado.align-items-center.mb-5
             .col-12.col-lg-10

@@ -201,7 +201,7 @@
               i marketing 
               | pueden ajustar sus estrategias y mejorar el rendimiento de sus campañas (Muñoz & Elosegui, 2018). Al contar con información precisa sobre la interacción de los usuarios, las marcas pueden identificar qué tácticas están funcionando y cuáles necesitan ajustes, optimizando sus esfuerzos para lograr mejores resultados.
 
-            .bg-color-terciario-t5.p-4.tarjeta.mb-3
+            .bg-color-acento-contenido-a20.p-4.tarjeta.mb-3
               p.mb-0 El verdadero valor de las métricas no está solo en su recopilación, sino en su interpretación. Analizar indicadores como tasas de conversión, niveles de 
                 i engagement 
                 | y alcance permite detectar patrones y oportunidades de mejora. Por ejemplo, si una empresa observa que ciertas publicaciones generan más interacción en un horario específico, puede adaptar su estrategia para aprovechar ese comportamiento. Así, la toma de decisiones se vuelve más efectiva, basada en datos concretos y alineada con los hábitos de consumo del público objetivo.
