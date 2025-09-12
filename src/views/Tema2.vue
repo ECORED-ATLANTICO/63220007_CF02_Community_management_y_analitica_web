@@ -69,7 +69,7 @@
               table
                 caption 
                   b Fuente:
-                  | SENA 2025
+                  | SENA, 2025
                 thead
                   tr
                     th Nombre de la métrica

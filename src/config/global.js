@@ -201,7 +201,7 @@ export default {
         'proceso de recopilación y análisis de datos digitales para evaluar el comportamiento de los usuarios en plataformas <em>online.</em>',
     },
     {
-      termino: '<em>Business suite</em>',
+      termino: 'Business suite',
       significado:
         'herramienta de Meta que permite gestionar y analizar métricas de redes sociales como Facebook e Instagram.',
     },
@@ -216,7 +216,7 @@ export default {
         'nivel de interacción que los usuarios tienen con el contenido de una marca en redes sociales, expresado en <em>likes</em>, comentarios y compartidos.',
     },
     {
-      termino: 'Google <em>Analytics</em>',
+      termino: 'Google Analytics',
       significado:
         'plataforma de análisis web que permite monitorear el tráfico y el comportamiento de los usuarios en un sitio web.',
     },
@@ -236,7 +236,7 @@ export default {
         'página web diseñada específicamente para captar la atención de los visitantes y fomentar conversiones.',
     },
     {
-      termino: 'Meta <em>business suite</em>',
+      termino: 'Meta business suite',
       significado:
         'plataforma de Meta que permite administrar métricas y contenido en Facebook e Instagram desde un solo lugar.',
     },

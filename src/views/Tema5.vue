@@ -47,9 +47,7 @@
         .cajon.mb-4.mb-lg-0(data-aos="fade-left")
           p.mb-0 
             b Ejemplo empresarial.  
-            | Una agencia de publicidad usa Google 
-            i Analytics 
-            | para evaluar el tráfico de su sitio web y determinar qué páginas generan mayor conversión. Luego, implementa cambios en la estructura del contenido para mejorar los resultados.
+            | Una agencia de publicidad usa Google Analytics para evaluar el tráfico de su sitio web y determinar qué páginas generan mayor conversión. Luego, implementa cambios en la estructura del contenido para mejorar los resultados.
       .col-4.col-md-2.mx-auto
         figure
           img.mb-4.mb-lg-0(data-aos="fade-right")(src='@/assets/curso/tema5/img04.png', alt='imagen decorativa')
@@ -79,7 +77,7 @@
               table
                 caption 
                   b Fuente: 
-                  | SENA (2025).
+                  | SENA, (2025).
                 thead
                   tr
                     th Herramienta
@@ -88,29 +86,21 @@
                     th Gratuita
                 tbody
                   tr
-                    td.text-left Google 
-                      i analytics.
+                    td.text-left Google Analytics.
                     td.text-left Permite analizar tráfico web, comportamiento de usuarios y conversiones.
-                    td.text-left Google 
-                      i Analytics 
-                      | | Google 
-                      i for developers.
+                    td.text-left Google Analytics / Google for developers.
                     td.text-left Si 
                   tr
-                    td.text-left 
-                      i Business suite.
+                    td.text-left Business suite.
                     td.text-left Facilita el monitoreo de métricas en Facebook e Instagram.
-                    td.text-left Meta 
-                      i business suite: 
+                    td.text-left Meta business suite: 
                       | administrar Facebook e Instagram en un solo lugar | Meta 
                       i for business.
                     td.text-left Si 
                   tr
-                    td.text-left Hootsuite 
-                      i Analytics.
+                    td.text-left Hootsuite Analytics.
                     td.text-left Ofrece datos sobre interacciones y rendimiento de publicaciones.
-                    td.text-left 
-                      i Social media analytics tools - Hootsuite analytics.
+                    td.text-left Social media analytics tools - Hootsuite analytics.
                     td.text-left No. Cuenta con periodo de prueba.
                   tr
                     td.text-left SEMrush.

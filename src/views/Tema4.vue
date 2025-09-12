@@ -149,8 +149,7 @@
           .col-lg-8
               p En el análisis de datos digitales, existen dos indicadores de rendimiento que son fundamentales diferenciar, las métricas superficiales, también conocidas como 
                 i vanity metrics, 
-                | y aquellas métricas realmente accionables que aportan valor tangible a la estrategia empresarial. Avinash Kaushik, en su obra 
-                i web Analytics 
+                | y aquellas métricas realmente accionables que aportan valor tangible a la estrategia empresarial. Avinash Kaushik, en su obra Web Analytics 
                 | 2.0, destaca la evolución de la medición de datos digitales, pasando de métricas básicas como visitas y páginas vistas a métricas más accionables, también conocidas como métricas basadas en resultados.
               p.bg-color-acento-contenido-a5.p-4 Las 
                 i vanity metrics, 

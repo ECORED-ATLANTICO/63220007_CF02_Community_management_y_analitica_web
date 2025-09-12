@@ -38,8 +38,8 @@
             span.text-dark Características de la analítica web 
           figure.mb-4
             figure.mb-3
-              img(src='@/assets/curso/tema1/img03.svg', alt='La figura presenta las características de la analítica web. Permite identificar tendencias de comportamiento de los usuarios. Facilita la medición de la efectividad de estrategias digitales. Proporciona datos para la optimización de contenidos. Ayuda a mejorar la experiencia del usuario en plataformas digitales.').mx-auto.d-block.d-xs-none
-              img(src='@/assets/curso/tema1/img03m.svg', alt='La figura presenta las características de la analítica web. Permite identificar tendencias de comportamiento de los usuarios. Facilita la medición de la efectividad de estrategias digitales. Proporciona datos para la optimización de contenidos. Ayuda a mejorar la experiencia del usuario en plataformas digitales.').mx-auto.d-none.d-xs-block
+              img(src='@/assets/curso/tema1/img03.svg', alt='La figura presenta las características de la analítica web. Permite identificar tendencias de comportamiento de los usuarios. Facilita la medición de la efectividad de estrategias digitales. Proporciona datos para la optimización de contenidos. Ayuda a mejorar la experiencia del usuario en plataformas digitales.').mx-auto.d-none.d-md-block
+              img(src='@/assets/curso/tema1/img03m.svg', alt='La figura presenta las características de la analítica web. Permite identificar tendencias de comportamiento de los usuarios. Facilita la medición de la efectividad de estrategias digitales. Proporciona datos para la optimización de contenidos. Ayuda a mejorar la experiencia del usuario en plataformas digitales.').mx-auto.d-block.d-md-none
 
             figcaption 
               b Fuente: 
