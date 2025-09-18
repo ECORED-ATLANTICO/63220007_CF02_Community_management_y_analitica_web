@@ -9,7 +9,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="el componente formativo 'Optimización digital mediante analítica web', se ofrece una visión general del uso estratégico de datos en entornos digitales. Se abordan temas como analítica web, tipos e importancia de las métricas, análisis en redes sociales, aplicación de estándares e indicadores, herramientas para el análisis y generación de informes, finalizando con acciones de mejora orientadas a evaluar la efectividad de los cambios implementados. ")
+          img(src="@/assets/curso/sintesis.svg", alt='El componente formativo "Optimización digital mediante analítica web", ofrece una visión general del uso estratégico de datos en entornos digitales. Se abordan temas como analítica web, tipos e importancia de las métricas, análisis en redes sociales, aplicación de estándares e indicadores, herramientas para el análisis y generación de informes, finalizando con acciones de mejora orientadas a evaluar la efectividad de los cambios implementados.')
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

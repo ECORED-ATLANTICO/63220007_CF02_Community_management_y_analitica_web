@@ -44,7 +44,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Analítica <em>web</em>',
+        titulo: 'Analítica web',
         desarrolloContenidos: true,
       },
 
@@ -69,7 +69,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Ecosistema digital',
+        titulo: 'Redes sociales',
         desarrolloContenidos: true,
       },
       {
@@ -248,7 +248,7 @@ export default {
     {
       termino: 'Métricas superficiales <em>(vanity metrics)</em>',
       significado:
-        'datos que parecen relevantes pero no ofrecen información clave para la toma de decisiones, como el número total de seguidores.',
+        'datos que parecen relevantes, pero no ofrecen información clave para la toma de decisiones, como el número total de seguidores.',
     },
     {
       termino: 'Pruebas A/B',
@@ -261,7 +261,7 @@ export default {
         'métrica utilizada para evaluar el retorno de inversión en campañas digitales y estrategias de <em>marketing</em>.',
     },
     {
-      termino: 'SEM <em>(Search Engine Marketing)</em> ',
+      termino: 'SEM <em>(Search Engine Marketing)</em>',
       significado:
         'publicidad pagada en buscadores que ayuda a aumentar el tráfico y mejorar la presencia digital de una empresa. ',
     },
@@ -322,7 +322,7 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Yezid Arturo Choperena Guerrero',
+          nombre: 'Nicolas Cruz Ríos',
           cargo: 'Experto temático',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
@@ -337,7 +337,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Carmen Alicia Martínez Torres',
+          nombre: 'Andrés Felipe Herrera',
           cargo: 'Diseñador <em>web</em>',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
@@ -347,7 +347,7 @@ export default {
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Nelson Iván Vera Briceño',
+          nombre: 'Alexander Rafael Acosta Bedoya',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },

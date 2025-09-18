@@ -17,9 +17,11 @@
               p Las herramientas de analítica web facilitan la recopilación de métricas esenciales como alcance, 
                 i engagement
                 | y conversión. Su elección depende de los objetivos de la estrategia digital y del tipo de datos que se desean analizar (Kaushik, 2020). Cada una de estas métricas aporta información valiosa sobre el comportamiento de los usuarios en distintos puntos del recorrido digital, permitiendo identificar oportunidades de optimización y tomar decisiones estratégicas basadas en datos. 
-              p La elección de la herramienta adecuada no solo depende de las funcionalidades que ofrece, sino también de la alineación con los objetivos específicos de la estrategia digital. Por ejemplo, si el enfoque está en mejorar la interacción con el público, será prioritario utilizar plataformas que midan el engagement en profundidad, mientras que para maximizar conversiones, se optará por soluciones que analicen el flujo de ventas y la efectividad de los puntos de contacto. 
+              p La elección de la herramienta adecuada no solo depende de las funcionalidades que ofrece, sino también de la alineación con los objetivos específicos de la estrategia digital. Por ejemplo, si el enfoque está en mejorar la interacción con el público, será prioritario utilizar plataformas que midan el 
+                i engagement 
+                | en profundidad, mientras que, para maximizar conversiones, se optará por soluciones que analicen el flujo de ventas y la efectividad de los puntos de contacto. 
         p.mb-5 En este contexto, es fundamental comprender qué tipo de datos se desea analizar y cómo estos pueden traducirse en 
-          i insights
+          i insights 
           | accionables que potencien el rendimiento y la competitividad en el entorno digital.
       
         .row.align-items-center.bg-color-acento-contenido-a10.p-2.tarjeta.w-100.mb-5

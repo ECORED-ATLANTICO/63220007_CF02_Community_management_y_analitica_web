@@ -13,7 +13,7 @@
         div.tarjeta-horz.mb-3
           img(src='@/assets/curso/tema4/img01.png', alt='Imagen decorativa')
           div.texto-tarjeta.bg-color-acento-contenido-a10
-            p.mb-0 La analítica web se trata de recopilar datos y de interpretarlos adecuadamente para extraer de ellos información valiosa. Para garantizar precisión y coherencia en la medición de métricas digitales, existen estándares que permiten evaluar el rendimiento de las estrategias en redes sociales. Estos estándares sirven como guías para definir qué datos son relevantes, cómo deben ser analizados y qué acciones pueden derivarse de su interpretación (Kaushik, 2020).
+            p.mb-0 La analítica web es una herramienta clave para comprender el impacto de una estrategia digital, pero su verdadero valor radica en la capacidad de detectar oportunidades de mejora y optimización. Al analizar métricas de redes sociales, las empresas pueden realizar ajustes en sus contenidos, campañas y formatos para optimizar sus resultados (Kaushik, 2020).
 
 
     .row.justify-content-center.align-items-center.mb-3
@@ -64,7 +64,7 @@
                     .p-4
                       p.mb-3
                         b Comparación de tendencias.
-                      p.mb-0 Evaluar cómo cambia el comportamiento de la audiencia a lo largo del tiempo..
+                      p.mb-0 Evaluar cómo cambia el comportamiento de la audiencia a lo largo del tiempo.
 
               .col-12.col-md-6.col-lg-3.mb-4(data-aos="fade-left")
                 .tarjeta-avatar.small-img

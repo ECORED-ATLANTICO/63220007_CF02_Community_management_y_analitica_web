@@ -77,7 +77,7 @@
           img.mb-4.mb-lg-0(data-aos="fade-left")(src='@/assets/curso/tema4/img07.png', alt='imagen decorativa')
       .col-lg-8
           p La recopilación de datos es solo el primer paso en el proceso de obtener información valiosa, sin una interpretación adecuada, los datos siguen siendo cifras y registros sin un propósito claro. La generación de 
-            i insights
+            i insights 
             | implica analizar patrones en la información obtenida para transformar los datos en conocimiento accionable (Muñoz & Elosegui, 2018). La clave está en analizarlos con profundidad, identificar tendencias y reconocer patrones que ayuden a comprender mejor el comportamiento de los usuarios, el mercado y las oportunidades de negocio. 
           p.mb-0 Le invitamos a ver el siguiente video por medio del cual podrá apreciar un poco más al detalle sobre los 
             i insight.
@@ -100,7 +100,7 @@
                 i social media 
                 | y comunicación digital.
             .col-4.col-lg-2
-              a.boton.color-acento-botones(href=" https://www.youtube.com/watch?v=O_uQYV8rZ3k" target="_blank")
+              a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=_FS9hxSIDwY" target="_blank")
                 span Video
                 i.fas.fa-link
           
@@ -182,7 +182,7 @@
             .cajon.mb-lg-0(data-aos="fade-left")
               p.mb-0 
                 b Ejemplo empresarial.  
-                | Una empresa de tecnología analiza sus redes sociales y descubre que tiene una gran cantidad de seguidores pero poca interacción en sus publicaciones. En lugar de enfocarse solo en aumentar seguidores, decide mejorar la calidad de su contenido para fortalecer la tasa de 
+                | Una empresa de tecnología analiza sus redes sociales y descubre que tiene una gran cantidad de seguidores, pero poca interacción en sus publicaciones. En lugar de enfocarse solo en aumentar seguidores, decide mejorar la calidad de su contenido para fortalecer la tasa de 
                 i engagement.
           .col-6.col-md-3.mx-auto.order-1.order-lg-2
             figure

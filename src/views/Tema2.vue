@@ -86,17 +86,11 @@
                       | alcanzó a 1,200 usuarios." 
                     td.text-left Alcance. 
                   tr
-                    td.text-left 
-                      i Clicks 
-                      | por enlace.
-                    td.text-left Registra los 
-                      i clicks 
-                      | en enlaces incluidos en el contenido. 
+                    td.text-left Clic por enlace.
+                    td.text-left Registra los clic en enlaces incluidos en el contenido. 
                     td.text-left "El 
                       i link 
-                      | recibió 150 
-                      i clicks 
-                      | desde Instagram." 
+                      | recibió 150 clic desde Instagram." 
                     td.text-left Conversión. 
                   tr
                     td.text-left Compartidos 
@@ -112,9 +106,7 @@
                     td.text-left Determina el costo monetario por cada 
                       i click 
                       | en anuncios pagados. 
-                    td.text-left "$0.20 por clic (100 
-                      i clicks 
-                      | por $20)." 
+                    td.text-left "$0.20 por clic (100 clic por $20)." 
                     td.text-left Conversión. 
                   tr
                     td.text-left Crecimiento de seguidores.
@@ -240,7 +232,7 @@
           img.mb-4.mb-lg-0(data-aos="fade-left")(src='@/assets/curso/tema2/img10.png', alt='imagen decorativa')
       .col-lg-8
           p.mb-3 Cada campaña tiene objetivos distintos, ya sea aumentar el reconocimiento de marca, generar tráfico web, mejorar la conversión o fortalecer la fidelidad del cliente. En este sentido, las métricas deben seleccionarse estratégicamente para medir aspectos relevantes de cada iniciativa. Por ejemplo, en una estrategia enfocada en redes sociales, el 
-            i engagement,
+            i engagement, 
             | el alcance y la tasa de interacción son métricas esenciales; mientras que en una campaña de 
             i email marketing, 
             | la tasa de apertura y el porcentaje de clics resultan determinantes.
@@ -284,8 +276,7 @@
             p.text-bold Métricas de 
               i engagement 
               | (interacción).
-            p Evalúan el nivel de participación del público con el contenido publicado. Reflejan el interés, la conexión y la respuesta de la audiencia. Se manifiestan en indicadores como likes, comentarios, compartidos y 
-              i clicks.
+            p Evalúan el nivel de participación del público con el contenido publicado. Reflejan el interés, la conexión y la respuesta de la audiencia. Se manifiestan en indicadores como likes, comentarios, compartidos y clic.
       .py-4.py-md-5(titulo="Métricas de conversión" :icono="require('@/assets/curso/tema2/img14.svg')").bg_lightbluegray    
         .row
           .col-10.col-lg-10.mx-auto
@@ -310,8 +301,8 @@
         .cajon.mb-4.mb-lg-0(data-aos="fade-left")
           p.mb-0 
             b Ejemplo empresarial.  
-            | Un hotel analiza sus métricas y descubre que su contenido visual (fotografías de habitaciones y servicios) tiene un alto alcance pero bajo 
-            i engagement.
+            | Un hotel analiza sus métricas y descubre que su contenido visual (fotografías de habitaciones y servicios) tiene un alto alcance, pero bajo 
+            i engagement. 
             | Como solución, decide incluir historias con testimonios de clientes para mejorar la interacción.
      
     

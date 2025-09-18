@@ -13,7 +13,11 @@
           img.mb-4.mb-lg-0(data-aos="fade-left")(src='@/assets/curso/tema3/img01.png', alt='imagen decorativa')
       .col-lg-8
         .bg-color-terciario-t5.p-4.tarjeta
-          p.mb-0 Las redes sociales no son solo vitrinas digitales donde las marcas se exhiben; son espacios vivos de conversación, escucha y construcción de comunidad. En el universo del marketing digital, su poder radica en que permiten activar estrategias medibles, segmentadas y alineadas con objetivos SMART: específicos, medibles, alcanzables, relevantes y temporales. Ya no se trata solo de publicar por estar, sino de diseñar contenidos que respondan a metas claras como aumentar el tráfico web en un 20 % en tres meses o generar 50 leads calificados desde Instagram por ejemplo. Cuando las redes se gestionan con intención estratégica, se convierten en aliadas para transformar la visibilidad en resultados concretos.
+          p.mb-0 Las redes sociales no son solo vitrinas digitales donde las marcas se exhiben; son espacios vivos de conversación, escucha y construcción de comunidad. En el universo del 
+            i marketing digital, 
+            | su poder radica en que permiten activar estrategias medibles, segmentadas y alineadas con objetivos SMART: específicos, medibles, alcanzables, relevantes y temporales. Ya no se trata solo de publicar por estar, sino de diseñar contenidos que respondan a metas claras como aumentar el tráfico web en un 20 % en tres meses o generar 50 
+            i leads 
+            | calificados desde Instagram, por ejemplo. Cuando las redes se gestionan con intención estratégica, se convierten en aliadas para transformar la visibilidad en resultados concretos.
 
     
     .row.mb-2
@@ -102,13 +106,16 @@
             figure
               img.mb-4.mb-lg-0(data-aos="fade-left")(src='@/assets/curso/tema3/img07.png', alt='imagen decorativa')
           .col-lg-9
-              p.mb-0 Los objetivos SMART en marketing digital son fundamentales para asegurar estrategias efectivas y con propósito. Definir metas específicas permite enfocarse en lo que realmente se quiere lograr, mientras que la capacidad de medir resultados con datos concretos evita la improvisación. Es clave que sean alcanzables y realistas dentro de los recursos disponibles, además de alinearse con la estrategia del negocio para garantizar su relevancia. Finalmente, establecer un plazo impulsa la acción y evita que las ideas queden en el aire. En el mundo digital, donde todo avanza a gran velocidad, contar con objetivos SMART le permite a una empresa mantener el enfoque y tomar decisiones con confianza, al establecer metas claras y alcanzables, se asegura que cada paso contribuye a su crecimiento y éxito dentro del mercado.
+              p.mb-0 Los objetivos SMART en 
+                i marketing digital 
+                | son fundamentales para asegurar estrategias efectivas y con propósito. Definir metas específicas permite enfocarse en lo que realmente se quiere lograr, mientras que la capacidad de medir resultados con datos concretos evita la improvisación. Es clave que sean alcanzables y realistas dentro de los recursos disponibles, además de alinearse con la estrategia del negocio para garantizar su relevancia. Finalmente, establecer un plazo impulsa la acción y evita que las ideas queden en el aire. En el mundo digital, donde todo avanza a gran velocidad, contar con objetivos SMART le permite a una empresa mantener el enfoque y tomar decisiones con confianza, al establecer metas claras y alcanzables, se asegura que cada paso contribuye a su crecimiento y éxito dentro del mercado.
 
         .row
           .col-12.col.col-lg-9.mb-4.mb-lg-0
             LineaTiempoD.color-secundario
               .row(numero="1" titulo="Específico")
-                p.mb-0 Las acciones deben estar claramente definidas, como publicar diariamente en redes sociales, aplicar estrategias SEO para atraer visitas al sitio web o mejorar la tasa de conversión mediante campañas segmentadas de email marketing.
+                p.mb-0 Las acciones deben estar claramente definidas, como publicar diariamente en redes sociales, aplicar estrategias SEO para atraer visitas al sitio web o mejorar la tasa de conversión mediante campañas segmentadas de 
+                  i email marketing.
               .row(numero="2" titulo="Medible")
                 p.mb-0 Los objetivos deben expresarse con datos concretos, como aumentar en un 20 % los seguidores en Instagram, lograr 5.000 visitas mensuales en el sitio web o alcanzar una tasa de apertura del 30 % en correos.
               .row(numero="3" titulo="Alcanzable")

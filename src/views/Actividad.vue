@@ -20,10 +20,10 @@ export default {
       tema: 'Analítica web para redes sociales.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Estimular el pensamiento crítico respecto al impacto de la analítica <em>web</em>',
+        '<b> Objetivo:</b> estimular el pensamiento crítico respecto al impacto de la analítica <em>web</em>',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!..',
-      titulo_reprobado: 'VUELVA A INTENTARLO..',
+      titulo_aprobado: '¡BUEN TRABAJO!.',
+      titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {
           id: 1,
@@ -322,7 +322,7 @@ export default {
         {
           id: 15,
           texto:
-            'La optimización de estrategias digitales no depende del análisis de métricas..',
+            'La optimización de estrategias digitales no depende del análisis de métricas.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
