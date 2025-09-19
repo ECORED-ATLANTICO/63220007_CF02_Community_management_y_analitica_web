@@ -45,6 +45,14 @@
               b Fuente: 
               | SENA, 2025.
 
+        .row.col-12.col-lg-8.mx-auto.bg-color-secundario-s5.align-items-center.p-4.tarjeta
+          p.mb-0  Las características de la analítica web: 
+          p.mb-0 Permite identificar tendencias de comportamiento de los usuarios.
+          p.mb-0 •⁠ Facilita la medición de la efectividad de estrategias digitales.
+          p.mb-0 •⁠ Proporciona datos para la optimización de contenidos.
+          p.mb-0 •⁠ Ayuda a mejorar la experiencia del usuario en plataformas digitales.
+         
+
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-4
