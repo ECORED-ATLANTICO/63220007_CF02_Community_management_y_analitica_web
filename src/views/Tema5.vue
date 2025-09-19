@@ -15,7 +15,7 @@
               img.mb-4.mb-lg-0(data-aos="fade-left")(src='@/assets/curso/tema5/img01.png', alt='imagen decorativa')
           .col-lg-8
               p Las herramientas de analítica web facilitan la recopilación de métricas esenciales como alcance, 
-                i engagement
+                i engagement 
                 | y conversión. Su elección depende de los objetivos de la estrategia digital y del tipo de datos que se desean analizar (Kaushik, 2020). Cada una de estas métricas aporta información valiosa sobre el comportamiento de los usuarios en distintos puntos del recorrido digital, permitiendo identificar oportunidades de optimización y tomar decisiones estratégicas basadas en datos. 
               p La elección de la herramienta adecuada no solo depende de las funcionalidades que ofrece, sino también de la alineación con los objetivos específicos de la estrategia digital. Por ejemplo, si el enfoque está en mejorar la interacción con el público, será prioritario utilizar plataformas que midan el 
                 i engagement 
@@ -109,7 +109,7 @@
                     td.text-left Ideal para el análisis de posicionamiento SEO y 
                       i marketing 
                       | digital.
-                    td.text-left Semrush, el 
+                    td.text-left SEMrush, el 
                       i marketing online 
                       | puede ser fácil.
                     td.text-left No. Cuenta con periodo de prueba. 

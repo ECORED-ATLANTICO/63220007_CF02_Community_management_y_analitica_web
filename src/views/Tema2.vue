@@ -100,12 +100,8 @@
                     td.text-left 
                       i Engagement. 
                   tr
-                    td.text-left CPC (Costo por 
-                      i Click
-                      | ).
-                    td.text-left Determina el costo monetario por cada 
-                      i click 
-                      | en anuncios pagados. 
+                    td.text-left CPC (Costo por clic).
+                    td.text-left Determina el costo monetario por cada clic  en anuncios pagados. 
                     td.text-left "$0.20 por clic (100 clic por $20)." 
                     td.text-left Conversión. 
                   tr
