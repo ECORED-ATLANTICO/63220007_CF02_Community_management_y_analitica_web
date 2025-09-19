@@ -73,7 +73,8 @@
           .col-md-12.col-lg-11
             .titulo-sexto.mb-4
               h5 Tabla 2. 
-                span Ejemplo de plataformas para analítica web
+                span 
+                  i Ejemplo de plataformas para analítica web
 
             .tabla-a
               table

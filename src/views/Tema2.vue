@@ -63,7 +63,8 @@
           .col-md-12.col-lg-11
             .titulo-sexto.mb-4
               h5 Tabla 1. 
-                span Métricas más usadas
+                span 
+                  i Métricas más usadas
 
             .tabla-a
               table
